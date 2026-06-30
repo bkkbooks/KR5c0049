@@ -1,0 +1,475 @@
+canonical_identifier: bkk:krp/KR5c0049/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl1}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 0, content: '', id: KR5c0049_SBCK_000-1a01}
+  - {type: variant, offset: 0, length: 1028, content: 列子序張湛字處度湛聞之張湛字處度東晋光禄勲注此真絰先父曰吾先君與劉正輿傳頴根皆王氏之甥也並少詩照反遊外家舅始周姓王張湛祖之舅始周從疾用反兄正宗輔嗣皆好呼教反集文籍先并卑政反得仲宣家書幾將萬卷傳氏亦世為學門三君緫角競録竒書及長丁文反遭永嘉之亂與頴根同避難乃旦反南行車重各稱尺證反力並有所載而㓂虜彌盛前途尚逺張謂傳曰今將不能盡子忍反全所載且共料音聊簡世所希有者各各保録令無遺棄頴根於是唯賫音擠其祖玄父咸予集先君所録書中有列子八篇及至江南僅音覲少也有存者列子唯餘楊朱說符目録三卷比必利反亂正輿為楊州刺史先來過江復扶又反在其家得四卷㝷從輔嗣女壻趙季子家得六卷參校有無始得全備其書大畧明羣有以至虚為宗萬品以終㓕為驗神惠以凝寂常全想念以著直畧反物自䘮息浪反生音敎與化夣等情巨細不限一域窮逹無假智力治身貴於肆任而鴆反順性則所之皆適水火可蹈志懷則無幽不照此其㫖也然所明往往與佛相參大歸同於老荘屬音燭亂引特與荘子相似荘子愼到韓非尸子淮南子玄示㫖歸多稱其言遂注之云爾光禄大臣向所校列子書緑永始三年八月壬寅上沖虚至德真絰序畢乾隆乙卯季冬書鄭輔義擕宋刻列子二册求售適是日余在友人處因留於大兒玉堂書塾中至暮抵家取書閱之宻行細字尚是宋刻之上駟急挑燈校一卷覺世德堂本訛舛已復不少真善本也明晨訪頋抱冲于小讀書堆鄭書友已在座背冲問其直索白鏹六十金余方以為價昂不之得而抱冲已喧傳余之獨得是書矣盖是書先擕至金閭袁綬階處後到余家綬階遂為抱冲言之而抱冲作書於輔義指名相索輔義含糊答忽見余與輔義耳語知是書已留余家故冲以余為必得也余亦以是書不歸江夏即歸武倘惜財物致失異書大是恨事因固留之并不敢重與物主一觀輔義来議價者再三仍執前所言不得已屬其取向所見之宋刻新序同買之許以八十金而始允余雖知是書之貴明為余與抱冲争購之故然此愛書之私終不為所奪在余亦自其癡獃耳歳晚事忙不及叙得書顛末新年以守制居家不出門賀歳午窓新霽展函讀之爰題數行于後俾後之覽者知異書忽來如景星卿雲争先覩之為快癡獃如余尢有甚扵人有不竊相者乎大清嘉慶元年元旦日試筆書此於昭明卷舊居之養恬書屋人黄丕烈列子行世夲以世德堂六子中本為最余舊藏影宋鈔本抱冲曽取以世德堂本校之多所岐異幾自矜為善本矣近得此本佳處更多鈔本遂遜而居乙抱冲從弟澗蘋為余校是書見其中所附音始猶疑為殷敬順釋文後細審之乃知非釋文盖作注者之舊音也且為余為殷敬順乃宋人而託名唐人者如此本字句釋文所云一本作某某皆與此合則此本之在釋文未行以前可知列子善本絶少得此足正羣譌書前跋畢并記數語以傳信扵後, HFL: 經}
+  - {type: page-break, offset: 0, content: '', id: KR5c0049_HFL_002-035b, image: hfl/0349/0349-004.png}
+  - {type: page-break, offset: 0, content: '', id: KR5c0049_SJB_000-110525c, image: sjb/11/110525c.png}
+  - {type: variant, offset: 2, length: 206, content: 序張湛字處度湛聞之張湛字處度東晋光禄勲注此真絰先父曰吾先君與劉正輿傳頴根皆王氏之甥也並少詩照反遊外家舅始周姓王張湛祖之舅始周從疾用反兄正宗輔嗣皆好呼教反集文籍先并卑政反得仲宣家書幾將萬卷傳氏亦世為學門三君緫角競録竒書及長丁文反遭永嘉之亂與頴根同避難乃旦反南行車重各稱尺證反力並有所載而㓂虜彌盛前途尚逺張謂傳曰今將不能盡子忍反全所載且共料音聊簡世所希有者各各保録令無遺棄頴根於是唯賫音擠其祖玄父咸予集先君所録書中有, ZTDZ: 慕七}
+  - {type: indent, offset: 3, content: 　, id: KR5c0049_krp_000-bkkind1}
+  - {type: 'kr:newline', offset: 8, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 8, content: '', id: KR5c0049_SBCK_000-1a02}
+  - {type: punctuation, offset: 11, content: (, id: KR5c0049_krp_000-bkkpn1}
+  - {type: punctuation, offset: 18, content: /, id: KR5c0049_krp_000-bkkpn2}
+  - {type: substitution, offset: 19, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4474}}
+  - {type: substitution, offset: 20, original: 勲, replacement: 勳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4364}}
+  - {type: punctuation, offset: 25, content: ), id: KR5c0049_krp_000-bkkpn3}
+  - {type: 'kr:newline', offset: 41, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 41, content: '', id: KR5c0049_SBCK_000-1a03}
+  - {type: punctuation, offset: 46, content: (, id: KR5c0049_krp_000-bkkpn4}
+  - {type: punctuation, offset: 48, content: /, id: KR5c0049_krp_000-bkkpn5}
+  - {type: punctuation, offset: 49, content: ), id: KR5c0049_krp_000-bkkpn6}
+  - {type: punctuation, offset: 55, content: (, id: KR5c0049_krp_000-bkkpn7}
+  - {type: punctuation, offset: 59, content: /, id: KR5c0049_krp_000-bkkpn8}
+  - {type: punctuation, offset: 62, content: ), id: KR5c0049_krp_000-bkkpn9}
+  - {type: punctuation, offset: 65, content: (, id: KR5c0049_krp_000-bkkpn10}
+  - {type: punctuation, offset: 67, content: /, id: KR5c0049_krp_000-bkkpn11}
+  - {type: punctuation, offset: 68, content: ), id: KR5c0049_krp_000-bkkpn12}
+  - {type: 'kr:newline', offset: 72, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 72, content: '', id: KR5c0049_SBCK_000-1a04}
+  - {type: punctuation, offset: 75, content: (, id: KR5c0049_krp_000-bkkpn13}
+  - {type: punctuation, offset: 77, content: /, id: KR5c0049_krp_000-bkkpn14}
+  - {type: punctuation, offset: 78, content: ), id: KR5c0049_krp_000-bkkpn15}
+  - {type: punctuation, offset: 83, content: (, id: KR5c0049_krp_000-bkkpn16}
+  - {type: punctuation, offset: 85, content: /, id: KR5c0049_krp_000-bkkpn17}
+  - {type: punctuation, offset: 86, content: ), id: KR5c0049_krp_000-bkkpn18}
+  - {type: 'kr:newline', offset: 100, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 100, content: '', id: KR5c0049_SBCK_000-1a05}
+  - {type: substitution, offset: 104, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3612}}
+  - {type: punctuation, offset: 112, content: (, id: KR5c0049_krp_000-bkkpn19}
+  - {type: punctuation, offset: 114, content: /, id: KR5c0049_krp_000-bkkpn20}
+  - {type: punctuation, offset: 115, content: ), id: KR5c0049_krp_000-bkkpn21}
+  - {type: punctuation, offset: 126, content: (, id: KR5c0049_krp_000-bkkpn22}
+  - {type: punctuation, offset: 127, content: /, id: KR5c0049_krp_000-bkkpn23}
+  - {type: punctuation, offset: 128, content: ), id: KR5c0049_krp_000-bkkpn24}
+  - {type: 'kr:newline', offset: 128, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 128, content: '', id: KR5c0049_SBCK_000-1a06}
+  - {type: punctuation, offset: 128, content: (, id: KR5c0049_krp_000-bkkpn25}
+  - {type: punctuation, offset: 129, content: ), id: KR5c0049_krp_000-bkkpn26}
+  - {type: punctuation, offset: 135, content: (, id: KR5c0049_krp_000-bkkpn27}
+  - {type: punctuation, offset: 137, content: /, id: KR5c0049_krp_000-bkkpn28}
+  - {type: punctuation, offset: 138, content: ), id: KR5c0049_krp_000-bkkpn29}
+  - {type: substitution, offset: 144, original: 㓂, replacement: 寇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3634}}
+  - {type: 'kr:newline', offset: 155, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 155, content: '', id: KR5c0049_SBCK_000-1a07}
+  - {type: punctuation, offset: 161, content: (, id: KR5c0049_krp_000-bkkpn30}
+  - {type: punctuation, offset: 163, content: /, id: KR5c0049_krp_000-bkkpn31}
+  - {type: punctuation, offset: 164, content: ), id: KR5c0049_krp_000-bkkpn32}
+  - {type: punctuation, offset: 170, content: (, id: KR5c0049_krp_000-bkkpn33}
+  - {type: punctuation, offset: 171, content: /, id: KR5c0049_krp_000-bkkpn34}
+  - {type: punctuation, offset: 172, content: ), id: KR5c0049_krp_000-bkkpn35}
+  - {type: 'kr:newline', offset: 183, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl9}
+  - {type: line-break, offset: 183, content: '', id: KR5c0049_SBCK_000-1a08}
+  - {type: punctuation, offset: 192, content: (, id: KR5c0049_krp_000-bkkpn36}
+  - {type: punctuation, offset: 193, content: /, id: KR5c0049_krp_000-bkkpn37}
+  - {type: punctuation, offset: 194, content: ), id: KR5c0049_krp_000-bkkpn38}
+  - {type: substitution, offset: 199, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: 'kr:newline', offset: 210, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 210, content: '', id: KR5c0049_SBCK_000-1a09}
+  - {type: variant, offset: 210, length: 0, content: '', ZTDZ: 姓列名禦寇鄭人也居鄭圃四十年人無識者初事壺丘子後師老商氏友伯高子進二子之道九年而後能御風而行弟子嚴恢問曰所爲問道者爲富乎列子曰桀紂唯輕道而重利是以亡其書凡}
+  - {type: variant, offset: 212, length: 12, content: 及至江南僅音覲少也有存者, ZTDZ: ''}
+  - {type: punctuation, offset: 217, content: (, id: KR5c0049_krp_000-bkkpn39}
+  - {type: punctuation, offset: 219, content: /, id: KR5c0049_krp_000-bkkpn40}
+  - {type: punctuation, offset: 221, content: ), id: KR5c0049_krp_000-bkkpn41}
+  - {type: variant, offset: 226, length: 19, content: 唯餘楊朱說符目録三卷比必利反亂正輿為楊, ZTDZ: 蓋有道之士而莊子亟稱之今汴梁鄭}
+  - {type: punctuation, offset: 237, content: (, id: KR5c0049_krp_000-bkkpn42}
+  - {type: punctuation, offset: 238, content: /, id: KR5c0049_krp_000-bkkpn43}
+  - {type: punctuation, offset: 239, content: ), id: KR5c0049_krp_000-bkkpn44}
+  - {type: 'kr:newline', offset: 239, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl11}
+  - {type: line-break, offset: 239, content: '', id: KR5c0049_SBCK_000-1a10}
+  - {type: punctuation, offset: 239, content: (, id: KR5c0049_krp_000-bkkpn45}
+  - {type: punctuation, offset: 240, content: ), id: KR5c0049_krp_000-bkkpn46}
+  - {type: variant, offset: 246, length: 184, content: 刺史先來過江復扶又反在其家得四卷㝷從輔嗣女壻趙季子家得六卷參校有無始得全備其書大畧明羣有以至虚為宗萬品以終㓕為驗神惠以凝寂常全想念以著直畧反物自䘮息浪反生音敎與化夣等情巨細不限一域窮逹無假智力治身貴於肆任而鴆反順性則所之皆適水火可蹈志懷則無幽不照此其㫖也然所明往往與佛相參大歸同於老荘屬音燭亂引特與荘子相似荘子愼到韓非尸子淮南子玄示㫖歸多稱其言遂注之云爾光禄大臣向所校, ZTDZ: 圃田}
+  - {type: punctuation, offset: 253, content: (, id: KR5c0049_krp_000-bkkpn47}
+  - {type: punctuation, offset: 255, content: /, id: KR5c0049_krp_000-bkkpn48}
+  - {type: punctuation, offset: 256, content: ), id: KR5c0049_krp_000-bkkpn49}
+  - {type: substitution, offset: 262, original: 㝷, replacement: 尋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3794}}
+  - {type: 'kr:newline', offset: 266, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl12}
+  - {type: line-break, offset: 266, content: '', id: KR5c0049_SBCK_000-1a11}
+  - {type: substitution, offset: 286, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1080}}
+  - {type: 'kr:newline', offset: 292, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl13}
+  - {type: line-break, offset: 292, content: '', id: KR5c0049_SBCK_000-1a12}
+  - {type: substitution, offset: 292, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4533}}
+  - {type: substitution, offset: 299, original: 㓕, replacement: 滅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3409}}
+  - {type: punctuation, offset: 313, content: (, id: KR5c0049_krp_000-bkkpn50}
+  - {type: substitution, offset: 314, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1080}}
+  - {type: punctuation, offset: 315, content: /, id: KR5c0049_krp_000-bkkpn51}
+  - {type: punctuation, offset: 316, content: ), id: KR5c0049_krp_000-bkkpn52}
+  - {type: substitution, offset: 318, original: 䘮, replacement: 喪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3144}}
+  - {type: 'kr:newline', offset: 319, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl14}
+  - {type: page-break, offset: 319, content: '', id: KR5c0049_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 319, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl15}
+  - {type: line-break, offset: 319, content: '', id: KR5c0049_SBCK_000-1b01}
+  - {type: punctuation, offset: 319, content: (, id: KR5c0049_krp_000-bkkpn53}
+  - {type: punctuation, offset: 321, content: /, id: KR5c0049_krp_000-bkkpn54}
+  - {type: punctuation, offset: 322, content: ), id: KR5c0049_krp_000-bkkpn55}
+  - {type: 'kr:non-cjk', offset: 323, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc1}
+  - {type: punctuation, offset: 323, content: (, id: KR5c0049_krp_000-bkkpn56}
+  - {type: punctuation, offset: 324, content: /, id: KR5c0049_krp_000-bkkpn57}
+  - {type: substitution, offset: 324, original: 敎, replacement: 教, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3788}}
+  - {type: punctuation, offset: 325, content: ), id: KR5c0049_krp_000-bkkpn58}
+  - {type: substitution, offset: 327, original: 夣, replacement: 夢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3677}}
+  - {type: 'kr:newline', offset: 346, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl16}
+  - {type: line-break, offset: 346, content: '', id: KR5c0049_SBCK_000-1b02}
+  - {type: punctuation, offset: 348, content: (, id: KR5c0049_krp_000-bkkpn59}
+  - {type: punctuation, offset: 350, content: /, id: KR5c0049_krp_000-bkkpn60}
+  - {type: punctuation, offset: 351, content: ), id: KR5c0049_krp_000-bkkpn61}
+  - {type: 'kr:newline', offset: 373, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl17}
+  - {type: line-break, offset: 373, content: '', id: KR5c0049_SBCK_000-1b03}
+  - {type: 'kr:non-cjk', offset: 380, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc2}
+  - {type: substitution, offset: 387, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4420}}
+  - {type: punctuation, offset: 389, content: (, id: KR5c0049_krp_000-bkkpn62}
+  - {type: punctuation, offset: 390, content: /, id: KR5c0049_krp_000-bkkpn63}
+  - {type: punctuation, offset: 391, content: ), id: KR5c0049_krp_000-bkkpn64}
+  - {type: 'kr:non-cjk', offset: 393, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc3}
+  - {type: substitution, offset: 395, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4420}}
+  - {type: 'kr:newline', offset: 398, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl18}
+  - {type: line-break, offset: 398, content: '', id: KR5c0049_SBCK_000-1b04}
+  - {type: substitution, offset: 399, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4420}}
+  - {type: 'kr:newline', offset: 423, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl19}
+  - {type: page-break, offset: 423, content: '', id: KR5c0049_SBCK_000-2a}
+  - {type: 'kr:newline', offset: 423, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl20}
+  - {type: page-break, offset: 423, content: '', id: KR5c0049_SBCK_000-3a}
+  - {type: 'kr:newline', offset: 423, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl21}
+  - {type: line-break, offset: 423, content: '', id: KR5c0049_SBCK_000-3a01}
+  - {type: substitution, offset: 424, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4474}}
+  - {type: variant, offset: 432, length: 0, content: '', ZTDZ: 觀即其故隱唐封冲虚至德眞人}
+  - {type: variant, offset: 433, length: 10, content: 緑永始三年八月壬寅上, ZTDZ: 爲冲虚至德眞經}
+  - {type: 'kr:newline', offset: 443, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl22}
+  - {type: line-break, offset: 443, content: '', id: KR5c0049_SBCK_000-3a02}
+  - {type: page-break, offset: 443, content: '', id: KR5c0049_SJB_000-110526a, image: sjb/11/110526a.png}
+  - {type: substitution, offset: 444, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4533}}
+  - {type: variant, offset: 447, length: 17, content: 真絰序畢乾隆乙卯季冬書鄭輔義擕宋刻, ZTDZ: 眞經卷上天瑞第一子}
+  - {type: 'kr:newline', offset: 451, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl23}
+  - {type: 'kr:newline', offset: 451, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl24}
+  - {type: 'kr:newline', offset: 451, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl25}
+  - {type: page-break, offset: 451, content: '', id: KR5c0049_SBCK_000-4a}
+  - {type: 'kr:newline', offset: 451, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl26}
+  - {type: line-break, offset: 451, content: '', id: KR5c0049_SBCK_000-4a01}
+  - {type: 'kr:non-cjk', offset: 458, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc4}
+  - {type: variant, offset: 466, length: 0, content: '', ZTDZ: 居鄭圃四十年人無識者國君卿大夫眎之猶衆庶也國不足將嫁於衛弟子曰先生往無反期弟子敢有所謁先生將何以教先生不聞壺丘子林之言乎子列子笑曰壺子何言哉雖然夫子嘗語伯昏瞀人吾側聞之試以告女其言曰有生不生有化不化不生者能生生不化者能化化生者不能不生化者不能不化故常生常化常生常化者無時不生無時不化陰陽爾四時爾不生者疑獨不化者往復其際不可終疑獨其道不可窮黄帝書曰谷神不死是謂玄牝玄牝之門是謂天地之根綿綿若存用之不勤故生物者不生化物者不化自生自化自形自色自智自力自消自息謂之生化形色智力消息者非也子列子曰昔者聖人因陰陽以統天地夫有形者生於無形則天地安從生故曰有太易有太初有太始有太素太易者未見氣也太初者氣之始也太始者形之始也太素者質之始也氣形質具而未相離故曰渾淪渾渝者言萬物相渾淪而未相離也視之不見聽之不聞循之不得故曰易也易無形埒易變而爲一一變而爲七七變而爲九九變者究也乃復變而爲一一者形變之始也清輕者上爲天濁重者下爲地冲和氣者爲人故天地含精萬物化生子列子曰天地無全功聖人無全能萬物無全用故天職生覆地職形載聖職教化物職所宜然則天有所短地有所長聖有所否物有所通何則生覆者不能形載形載者不能教化教化者不能違所宜宜定者不出所位故天地之道非陰則陽聖人之教非仁則義萬物之宜非柔則剛此皆隨所宜而不能出所位者也故有生者有生生者有形者有形形者有聲者有聲聲者有色者有色色者有味者有味味者生之所生者死矣而生生者未嘗終形之所形者實矣而形形者未嘗有聲之所聲者聞矣而聲聲者未嘗發色之所色者彰矣而色色者未嘗顯味之所味者嘗矣而味味者未嘗呈皆無爲之職也能陰能陽能柔能剛能短能長能圓能方能生能死能暑能涼能浮能沉能宫能商能出能没能玄能黄能甘能苦能羶能香無知也無能也而無不知也而無不能也子列子適衛食於道從者見百歲髑髏攓蓬而指顧謂弟子百豐曰唯予與彼知而未嘗生未嘗死也此過養乎過歡乎種有幾若鼃爲鶉得水爲㡭得水土之際則爲鼃蠙之衣生於陵屯則爲陵舄陵舄得鬱栖則爲爲足烏足之根爲蠐螬其葉爲胡蝶胡蝶胥也化而爲蟲生竈下其狀若脱其名曰𪀊掇𪀊掇千日化而爲鳥其名曰乾餘骨乾餘骨之沫爲斯彌斯彌爲食醯頤輅食醯頤輅生乎食醯黄軦食醯黄軦生乎九猷九猷生乎瞀芮瞀芮生乎腐蠸羊肝化爲地臯馬血之爲轉燐也人血之爲野火也鷂之爲鸇鸇之爲布穀布穀乆復爲鷂也燕之爲蛤也田鼠之爲鶉也杇爪之爲魚也老韭之爲莧也老羭之爲猨也魚卵之爲蠱亶爰之獸自孕而生曰類河澤之鳥視而生曰鶂純䳄其名大腰純雄其名穉蜂思士不妻而感思女不夫而孕後稷生乎巨跡伊尹生乎空桑厥昭生乎濕醯雞生乎酒羊奚比乎不筍乆竹生青寧青寧生程程生馬馬生人人乆入於機萬物皆出於機皆入於機黄帝書曰形動不生形而生影聲動不生聲而生響無動不生無而生有形必終者也天地終乎與我偕終終進乎不知也道終乎本無始進乎本不乆有生則復於不生有形則復於無形不生者非不生者也本無形者非本無形者也生者理之必終者也終者不得不終亦如生者之不得不生而欲恒其生盡其終惑於數也精神者天之分骨骸者地之分屬天清而散屬地濁而聚精神離形各歸其眞故謂之鬼鬼歸也歸其眞宅黄帝曰精神入其門骨骸反其根我尚何存人自生至終大化有四嬰孩也少壯也老耄也死亡也其在嬰孩氣專志一和之至也物不傷焉德莫加焉其在少壯則血氣飄溢欲慮充起物所攻焉德故衰焉其在老耄則欲慮柔焉體將休焉物莫先焉雖未及嬰孩之全方於少壯間矣其在死亡也則之於息焉反其極矣孔子遊於太山見榮啓期行乎郕之野鹿裘帶索鼓琴而歌孔子問曰先生所以樂何也對曰吾樂甚多天生萬物唯人爲貴而吾得爲人是一樂也男女之别男尊女卑故以男爲貴吾既得爲男矣是}
+  - {type: page-break, offset: 466, content: '', id: KR5c0049_SJB_000-110526b, image: sjb/11/110526b.png}
+  - {type: page-break, offset: 466, content: '', id: KR5c0049_SJB_000-110526c, image: sjb/11/110526c.png}
+  - {type: page-break, offset: 466, content: '', id: KR5c0049_SJB_000-110527a, image: sjb/11/110527a.png}
+  - {type: page-break, offset: 466, content: '', id: KR5c0049_SJB_000-110527b, image: sjb/11/110527b.png}
+  - {type: variant, offset: 467, length: 1, content: 册, ZTDZ: 樂也人生有不見日月不免襁褓者吾既已行年九十矣是三樂也貧者士之常也死者人之終也處常得終當何憂哉孔子曰善乎能自寬者也林類年且百歲底春被裘拾遺穗於故畦並歌並進孔子適衛望之於野顧謂弟子曰彼叟可與言者試往訊之子貢請行逆之隴端面之而嘆曰先生曾不悔乎而行歌拾穗林類行不留歌不輟子貢叩之不已乃仰而應曰吾何悔邪子貢曰先生少不勤行長不競時老無妻子死期將至亦有何樂而拾穗行歌乎林類笑曰吾之所以爲樂人皆有之而反以爲憂少不勤行長不競時故能壽若此老無妻子死期將至故能樂若此子貢曰壽者人之情死者人之惡子以死爲樂何也林類曰死之與生一往一反故死於是者安知不生於彼故吾知其不相若矣吾又安知營營而}
+  - {type: page-break, offset: 467, content: '', id: KR5c0049_SJB_000-110527c, image: sjb/11/110527c.png}
+  - {type: variant, offset: 469, length: 2, content: 售適, ZTDZ: 生非惑乎亦又安知吾今之死不愈昔之生乎子貢聞之不喻其意還以告夫子夫子曰吾知其可與言果然然彼得之而不盡者也子貢倦於學告仲尼曰願有所息仲尼曰生無所息子貢曰然則賜息無所乎仲尼曰有焉耳望其壙睪如也宰如也墳如也鬲如也則知所息矣子貢曰大哉死乎君子息焉小人伏焉仲尼曰賜汝知之矣人胥知生之樂未知生之苦知老之憊未知老之佚知死之惡未知死之息也晏子曰善哉古之有死也仁者息焉不仁者伏焉死也者德之徼也古者謂死人爲歸人夫言死人爲歸人則生人爲行人矣行而不知歸失家者也一人失家一世非之天下失家莫知非焉有人去鄉土離六親廢家業遊於四方而不歸者何人哉世必謂之爲狂蕩之人矣又有人鍾賢世矜巧能修名譽誇張於世而不知己者亦何人哉世必以爲智謀之士此二者胥失者也而世與一不與一唯聖人知所與知所去或謂子列子曰子奚貴虚列子曰虚者無貴也子列子曰非其名也莫如靜莫如虚靜也虚也得其居矣取也與也失其所矣事之破䃣而後有舞仁義者弗能復也粥熊曰運轉亡已天地密移疇覺之哉故物損於彼者盈於此成於此者虧於彼損盈成虧隨世隨死往來相接間不可省疇覺之哉凡一氣不頓進一形不頓虧亦不覺其成不覺其虧亦如人自世至老貌色智態亡日不異皮膚爪髮隨世隨落非嬰孩時有停而不易也間不可覺俟至後知杞國有人憂天地崩墜身亡所寄廢寢食者又有憂彼之所憂者因往曉之曰天積氣耳亡處亡氣若屈伸呼吸終日在天中行止奈何憂崩墜乎其人曰天果積氣日月星宿不當墜邪曉之者曰日月星宿亦積氣中之有光耀者只使墜亦不能有所中傷其人曰奈地壞何曉者曰地積塊耳充塞四虚亡處亡塊若躇步跐蹈終日在地上行止奈何憂其壞其人舍然大喜曉之者亦舍然大喜長廬子聞而笑之曰虹霓也雲霧也風雨也四時也此積氣之成乎天者也山嶽也河海也金石也水火也此積形之成乎地者也知積氣也知積塊也奚謂不壞夫天地空中之一細物有中之最巨者難終難窮此固然矣難測難識此固然矣憂其壞者誠爲大遠言其不壞者亦爲未}
+  - {type: page-break, offset: 469, content: '', id: KR5c0049_SJB_000-110528a, image: sjb/11/110528a.png}
+  - {type: page-break, offset: 469, content: '', id: KR5c0049_SJB_000-110528b, image: sjb/11/110528b.png}
+  - {type: variant, offset: 472, length: 8, content: 日余在友人處因留, ZTDZ: 天地不得不壞則會歸}
+  - {type: 'kr:newline', offset: 476, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl27}
+  - {type: line-break, offset: 476, content: '', id: KR5c0049_SBCK_000-4a02}
+  - {type: variant, offset: 481, length: 30, content: 大兒玉堂書塾中至暮抵家取書閱之宻行細字尚是宋刻之上駟急挑燈校, ZTDZ: 壞遇其壞時奚爲不憂哉子列子聞而笑曰言天地壞者亦謬言天地不壞者亦謬壞與不壞吾所不能知也雖然彼}
+  - {type: substitution, offset: 486, original: 塾, replacement: 孰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3905}}
+  - {type: substitution, offset: 494, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
+  - {type: substitution, offset: 496, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3073}}
+  - {type: 'kr:newline', offset: 502, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl28}
+  - {type: line-break, offset: 502, content: '', id: KR5c0049_SBCK_000-4a03}
+  - {type: variant, offset: 512, length: 10, content: 卷覺世德堂本訛舛已復, ZTDZ: 也此一也故生}
+  - {type: variant, offset: 523, length: 1, content: 少, ZTDZ: 知}
+  - {type: variant, offset: 524, length: 1, content: 真, ZTDZ: 死}
+  - {type: variant, offset: 525, length: 1, content: 善, ZTDZ: 死}
+  - {type: variant, offset: 526, length: 1, content: 本, ZTDZ: 不}
+  - {type: variant, offset: 527, length: 1, content: 也, ZTDZ: 知}
+  - {type: 'kr:newline', offset: 528, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl29}
+  - {type: line-break, offset: 528, content: '', id: KR5c0049_SBCK_000-4a04}
+  - {type: variant, offset: 528, length: 1, content: 明, ZTDZ: 生}
+  - {type: variant, offset: 529, length: 1, content: 晨, ZTDZ: 來}
+  - {type: variant, offset: 530, length: 1, content: 訪, ZTDZ: 不}
+  - {type: variant, offset: 531, length: 1, content: 頋, ZTDZ: 知}
+  - {type: substitution, offset: 531, original: 頋, replacement: 顧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3078}}
+  - {type: variant, offset: 532, length: 1, content: 抱, ZTDZ: 去}
+  - {type: variant, offset: 533, length: 1, content: 冲, ZTDZ: 去}
+  - {type: variant, offset: 534, length: 1, content: 于, ZTDZ: 不}
+  - {type: variant, offset: 535, length: 1, content: 小, ZTDZ: 知}
+  - {type: variant, offset: 536, length: 1, content: 讀, ZTDZ: 來}
+  - {type: variant, offset: 537, length: 1, content: 書, ZTDZ: 壞}
+  - {type: variant, offset: 538, length: 1, content: 堆, ZTDZ: 與}
+  - {type: variant, offset: 539, length: 1, content: 鄭, ZTDZ: 不}
+  - {type: variant, offset: 540, length: 1, content: 書, ZTDZ: 壞}
+  - {type: variant, offset: 541, length: 1, content: 友, ZTDZ: 吾}
+  - {type: variant, offset: 542, length: 1, content: 已, ZTDZ: 何}
+  - {type: variant, offset: 543, length: 1, content: 在, ZTDZ: 容}
+  - {type: variant, offset: 544, length: 1, content: 座, ZTDZ: 心}
+  - {type: variant, offset: 545, length: 1, content: 背, ZTDZ: 哉}
+  - {type: 'kr:non-cjk', offset: 546, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc5}
+  - {type: variant, offset: 546, length: 1, content: 冲, ZTDZ: 舜}
+  - {type: variant, offset: 548, length: 16, content: 其直索白鏹六十金余方以為價昂不之, ZTDZ: 乎烝曰道可}
+  - {type: 'kr:newline', offset: 553, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl30}
+  - {type: line-break, offset: 553, content: '', id: KR5c0049_SBCK_000-4a05}
+  - {type: variant, offset: 566, length: 6, content: 抱冲已喧傳余, ZTDZ: 有乎曰汝身非汝有也汝何得有夫道舜曰吾身非吾有孰有}
+  - {type: variant, offset: 573, length: 1, content: 獨, ZTDZ: 哉曰是天地之委形也生非汝有是天地之委和也性命非汝有是天地之委順也孫子非汝有是天地之委蜕也故行不知所往處不知所持食不知所以天地强陽氣也又胡可}
+  - {type: variant, offset: 575, length: 2, content: 是書, ZTDZ: 而有邪齊之國氏大富宋之向氏大貧自宋之齊請其術國氏告之曰吾善爲盜始吾爲盜也一年而給二年而足三年大穰自此以往施及州閭向氏大喜喻其爲盜之言而不喻其爲盜之道遂踰垣鑿室手目所及亡不探也未及時以贜獲罪没其先居之財向氏以國氏之謬己也往而怨之國氏曰若爲盜若何向氏言其狀國氏曰嘻若失爲盜之道至此乎今將告若}
+  - {type: page-break, offset: 575, content: '', id: KR5c0049_SJB_000-110528c, image: sjb/11/110528c.png}
+  - {type: variant, offset: 578, length: 6, content: 盖是書先擕至, ZTDZ: 吾聞天有時地有利吾盜天地之時利雲雨之滂潤山澤之産育以生吾禾殖吾稼築吾垣建吾舍陸盜禽獸水盜魚鼈亡非盜也夫禾稼士木禽獸魚鼈皆天之所生豈吾之所有然吾盜天而無殃夫}
+  - {type: substitution, offset: 578, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
+  - {type: 'kr:newline', offset: 579, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl31}
+  - {type: line-break, offset: 579, content: '', id: KR5c0049_SBCK_000-4a06}
+  - {type: variant, offset: 585, length: 16, content: 閭袁綬階處後到余家綬階遂為抱冲言, ZTDZ: 玉珍寳穀帛財貨人之所聚豈天之所與若盜}
+  - {type: variant, offset: 603, length: 4, content: 抱冲作書, ZTDZ: 獲罪孰怨哉向氏大惑以爲國氏之重罔己也遇東郭先生問焉東郭先生曰若一身庸非盜乎盜陰陽之和以成若生載若形況外物而非盜哉誠然天地萬物不相離也仞而有之皆惑也國氏之盜公道也故亡殃若之盜私心也故得罪有公私者亦盜也亡公私者亦盜也公公私私天地之德知天地之德者孰爲盜耶孰爲不盜耶黃帝第二黄帝即位十有五年喜天下戴己養正命娱耳目供鼻口焦然肌色皯居按切黣昏然五情爽惑又十有五年憂天下之不治竭聰明進智力營百姓焦然肌色皯黣眉回切昏然五情爽惑黄帝乃喟然讚曰朕之過淫矣養一己其患如此治萬物其患如此}
+  - {type: page-break, offset: 603, content: '', id: KR5c0049_SJB_000-110529a, image: sjb/11/110529a.png}
+  - {type: 'kr:newline', offset: 605, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl32}
+  - {type: line-break, offset: 605, content: '', id: KR5c0049_SBCK_000-4a07}
+  - {type: variant, offset: 608, length: 2, content: 輔義, ZTDZ: 是放萬機舍宫寢去直侍徹鐘懸减厨膳退而間居大庭之館齋心服形三月不親政事晝寢而夢遊於華胥氏之國華胥氏之國在弇州之西台州之北不知斯齊國幾千萬里蓋非舟車足力之所及神遊而已其國無帥長自然而已其民無嗜慾自然而已不知樂生不知惡死故無夭殤不知親己不知疏物故無愛憎不知背逆不知向順故無利害都無所愛惜無所畏忌入水不溺入火不熱斫撻無傷痛}
+  - {type: variant, offset: 611, length: 11, content: 名相索輔義含糊答忽見余, ZTDZ: 擿無痟音簫癢乘空如履實寢虚若處牀雲霧不硋}
+  - {type: 'kr:non-cjk', offset: 619, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc6}
+  - {type: variant, offset: 623, length: 4, content: 輔義耳語, ZTDZ: 礙同其視雷霆不亂其聽美惡不滑共心山谷不躓其步神行而已黄帝既寤怡然自得召天老力牧太山稽告之曰朕間居三月齋心服形思有以養身治物之道弗獲其術疲而睡所夢若此今}
+  - {type: page-break, offset: 623, content: '', id: KR5c0049_SJB_000-110529b, image: sjb/11/110529b.png}
+  - {type: variant, offset: 628, length: 0, content: '', ZTDZ: 至道不可以情求矣朕知之矣朕得之矣而不能以告若矣又二十有八年天下大治幾若華胥氏之國而帝登假百姓號之二百餘年不輟列姑射山在海河洲中山上有神人焉吸風飲露不食五穀心如淵泉形如處女不偎不愛仙聖爲之臣不畏不怒原慤爲之使不施不惠而物自足不聚不歛而己無愆陰陽常調日月常明四時常若風雨常均宇育常時年穀常豐而土無札傷人無夭惡物無疵癘鬼無靈響焉列子師老商氏友伯高子進二子之道乘風而歸尹生聞之從列子居數月不省舍因問請蘄其術者十反而十不告尹生懟而請辭列子又不命尹生退數月意不已又往從之列子曰女何去來之頻尹生曰曩章戴有請於子子不我告固有憾於子今復脱然}
+  - {type: variant, offset: 629, length: 7, content: 書已留余家故冲, ZTDZ: ''}
+  - {type: 'kr:newline', offset: 630, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl33}
+  - {type: line-break, offset: 630, content: '', id: KR5c0049_SBCK_000-4a08}
+  - {type: 'kr:non-cjk', offset: 635, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc7}
+  - {type: variant, offset: 637, length: 4, content: 余為必得, ZTDZ: 又來列子曰曩吾以汝爲達今汝之鄙至此乎姬將告女所學於夫子者矣自吾之事夫子友若人}
+  - {type: page-break, offset: 637, content: '', id: KR5c0049_SJB_000-110529c, image: sjb/11/110529c.png}
+  - {type: variant, offset: 642, length: 27, content: 余亦以是書不歸江夏即歸武倘惜財物致失異書大是恨事因固留, ZTDZ: 三年}
+  - {type: 'kr:non-cjk', offset: 654, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc8}
+  - {type: 'kr:newline', offset: 656, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl34}
+  - {type: line-break, offset: 656, content: '', id: KR5c0049_SBCK_000-4a09}
+  - {type: variant, offset: 670, length: 1, content: 并, ZTDZ: 後心}
+  - {type: variant, offset: 673, length: 4, content: 重與物主, ZTDZ: 念是非口不敢言利害始得夫子}
+  - {type: variant, offset: 678, length: 6, content: 觀輔義来議價, ZTDZ: 盻而已五年之後心更念是非口更言利害夫子始一解顔而笑七年之後從心之所念更無是非從口之所言更無利害夫子始一引吾並席而坐九年之後橫心之所念横口之所言亦不知我之是非利害歟亦不知彼之是非利害歟亦不知夫子之爲我師若人之爲我友内外進矣而後眼如耳耳如鼻鼻如口無不同也心凝形釋骨肉都融不覺形之所倚足之所履隨風東西猶木葉幹殻竟不知風乘我邪我乘風乎今女居先生之門曾未浹時而懟憾}
+  - {type: substitution, offset: 681, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0323}}
+  - {type: 'kr:newline', offset: 682, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl35}
+  - {type: line-break, offset: 682, content: '', id: KR5c0049_SBCK_000-4a10}
+  - {type: variant, offset: 687, length: 0, content: '', ZTDZ: 汝之片體將氣所不受汝之一節將地所不載履虚乘風其可幾乎尹生甚怍屛息良乆不敢復言列子問關尹曰至人潜行不空蹈火不熱行乎萬物之上而不慓請問何以至於此關尹曰是純氣之守也非智巧果敢之列姬魚語女凡有貌像聲色者皆物也物與物何以相遠也夫奚足以至乎先是色而已則物之造乎不形而止乎無所化夫得是而窮之者焉得而正焉彼將處乎不深之度而藏乎無端之紀游乎萬物之所終始壹其性養其氣含其德以通乎物之所造夫若是者其天守全其神無却物奚自入焉夫醉者之墜於車也雖疾不死骨節與人同而犯害與人異其神全也乘亦弗知也墜亦弗知也死生驚懼不入乎其胸是故遻物而不慴彼得全於酒而猶若是而況得全於天乎聖人藏於天故物莫之能傷也列禦寇爲伯昏無人射引之盈貫措盃水其肘上發之鏑矢復沓方矢復寓當是時也猶象人也伯昏無人曰是射之射非不射之射也當與汝登高山履危石臨百仞之淵若能射乎於是無人遂登高山履危石臨百仞之淵背逡巡足二分垂在外揖禦寇而進之禦寇伏地汗流至踵伯昏無人曰夫至人者止闚青天下潜黄泉揮斥八極神氣不變今汝怵然有恂目之志爾於中也殆矣夫范氏有子曰子華善養私名舉國服之有寵於晋君不仕而居三卿之右目所偏視晋國爵之口所偏肥晋國黜之遊其庭者侔於朝子華使其俠客以智鄙相攻强弱相凌雖傷破於前不用介意終日夜以此爲戲樂國殆成俗禾生子伯范氏之上客出行經坰外宿於田更商丘開之舍中夜禾生子伯二人相與言子華之名勢能使存者亡亡者存富者貧貧者富商丘開先窘於饑寒潜於牖北聽之因假糧荷畚之子華之門子華之門徒皆世族也縞衣乘軒緩步闊視顧見商丘開年老力弱面目黧黑衣冠不檢莫不眲之}
+  - {type: page-break, offset: 687, content: '', id: KR5c0049_SJB_000-110530a, image: sjb/11/110530a.png}
+  - {type: page-break, offset: 687, content: '', id: KR5c0049_SJB_000-110530b, image: sjb/11/110530b.png}
+  - {type: variant, offset: 688, length: 1, content: 執, ZTDZ: 吏切既而狎侮欺詒儻止兩切㧙必結切挨倚海切抌勇主切亡所不爲商丘開常無愠容而諸客之技單憊於戲笑遂與商丘開俱乘高臺於衆中漫言曰有能自投下者賞百金衆皆競應商丘開以爲信然遂先投下形若飛鳥揚於地𩨒骨無䃣范氏之黨以爲偶然未詎怪也因復指河曲之淫隈曰彼中有寳珠泳可得也商丘開復從而泳之既出果得珠焉衆昉同疑子華昉令豫肉食衣帛之次俄而范氏之藏大火子華曰若能入火取錦者從所得多少賞若商丘開往無難色入火往還埃不漫身不焦范氏之黨以爲有道乃共謝之曰吾不知子之有道而誕子吾不知子之神人而辱子子其愚我也子其聾我也子其盲我也敢問其道商丘開曰吾亡道雖吾之心亦不知所以雖然有一於此試與子言之曩子二客之宿吾舍也聞譽范氏之勢能使存者亡亡者存富者貧貧者富吾誠之無二心故不遠而來及來以子黨之言皆實也唯恐誠之之不至行之之不及不知形體之所措利害之所存也心一而物亡迕者如斯而已今昉知子黨之誕我我内藏猜慮外矜觀聽追幸昔日之不焦溺也怛然内熱惕然震悸矣水火豈復可近哉自此之後范氏門徒路遇乞兒馬醫弗敢辱也必下車而揖之宰我聞之以告仲尼仲尼曰汝弗知乎夫至信之人可以感物也動天地感鬼神橫六合而無逆者豈但履危險入水火而已哉商丘開信僞物猶不逆況彼我皆誠哉小子識之周宣王之牧正有役人梁鴦者能養野禽獸委食於園庭之内雖虎狼鵰鶚之類無不柔馴者雌雄在}
+  - {type: page-break, offset: 688, content: '', id: KR5c0049_SJB_000-110530c, image: sjb/11/110530c.png}
+  - {type: page-break, offset: 688, content: '', id: KR5c0049_SJB_000-110531a, image: sjb/11/110531a.png}
+  - {type: variant, offset: 690, length: 0, content: '', ZTDZ: 孳尾成羣異類雜居不相搏噬也王慮其術終於其身令毛丘園傳之梁鴦曰鴦賤役也何術以告爾懼王之謂隱於爾也且一言我養虎之法凡順之則喜逆之則怒此有血氣者之性也然喜怒豈妄發哉皆逆之}
+  - {type: variant, offset: 691, length: 1, content: 言, ZTDZ: 犯也夫食虎者不敢以生物與之爲其殺之之怒也不敢以全物與之爲其碎之之怒也時其饑飽達其怒心虎之與人異類而媚養己者順也故其殺之逆也然則吾豈敢逆之使怒哉亦不順之使喜也夫喜之復也必怒怒之復也常喜皆不中也令吾心無逆順者也則鳥獸之視吾猶其儕也故遊吾園者不思高林曠澤寢吾庭者不願深山幽谷理使然也顔回問乎仲尼曰吾嘗濟乎觴深之淵矣津人操舟若神吾問焉曰操舟可學邪曰可能游者可教也善游者數能乃若夫没人則未嘗見舟而謖操之者也吾問焉而不告敢問何謂也仲尼曰𧮒吾與若玩其文乆矣而未達其實而固且道與能游者可教也輕水也善游者之數能也忘水也乃若夫没人之未嘗見舟也而謖操之也彼視淵若陵視舟之覆猶其車却也覆却萬物方陳乎前而}
+  - {type: page-break, offset: 691, content: '', id: KR5c0049_SJB_000-110531b, image: sjb/11/110531b.png}
+  - {type: variant, offset: 694, length: 2, content: 已屬, ZTDZ: 入}
+  - {type: variant, offset: 697, length: 0, content: '', ZTDZ: 舍惡往而不暇以瓦摳者巧以鈎摳者憚以黄金摳者惛巧一也而有所矜則重外也凡重外者拱内孔子觀於吕梁懸水三十仞流沫三十里黿鼉魚鼈之所不能游也見一丈夫游之以爲似有苦而欲死者也使弟子並流而承之數百步而出被髮行歌而游於棠行孔子從而問之曰吕梁懸水三十仞流沫三十里黿鼉魚鼈所不能游向吾見子道之以爲有苦而欲死者使弟子並流將承子子出而被髮行歌吾以子爲鬼也察子則人也請問蹈水有道乎曰亡吾無道吾始乎故長乎性成乎命與齎俱入與汨偕出從水之道而不爲私焉此吾所以道之也孔子曰何謂始乎故長乎性成乎命也曰吾生於陵而安於陵故也長於水而安於水性也不知吾所以然而然命也仲尼適楚出於林中見痀瘻者承蜩猶掇之也仲尼曰子巧乎有道邪曰我有道也五六月纍現音九二而不墜則失者錙銖纍三而不墜則失者十一纍五而不墜猶掇之也吾處也若橛株駒吾執臂若槁木之枝雖天地之大萬物之多而唯蜩翼之知吾不反不側不以萬物易蜩之翼何爲而不得孔子顧謂弟子曰用志不分乃疑於神其痀瘻丈人曰汝逢衣徒也亦何知問是乎修汝所以而後載言其上海上之人有好漚鳥者每旦之海上從漚鳥游漚鳥之至者百住而不止其父曰吾聞漚鳥皆從汝游汝}
+  - {type: page-break, offset: 697, content: '', id: KR5c0049_SJB_000-110531c, image: sjb/11/110531c.png}
+  - {type: variant, offset: 698, length: 0, content: '', ZTDZ: 來吾玩之明日之海上漚鳥舞而不下也故曰至言去言至爲無爲齊智之所知則淺矣趙襄子率徒十萬狩於中山籍芿燔林扇赫百里有一人從石壁中出隨煙燼上下衆謂鬼物火過徐行而出若無所經涉者襄子怪而留之徐而察之形色七竅人也氣息音聲人也問奚道而處石奚道而入火其人曰奚物而謂石奚物而謂火襄子曰而}
+  - {type: variant, offset: 699, length: 0, content: '', ZTDZ: 之}
+  - {type: variant, offset: 700, length: 0, content: '', ZTDZ: 出者石也而向之所涉者火也其人曰不知也魏文侯聞之問子夏曰彼何人哉子夏曰以商所聞夫子之言和者大同於物物無得傷閡者游金石踏水火皆可也文侯曰吾子奚不爲之子夏曰刳心去智商未之能雖然試語之有暇矣文侯曰夫子奚不爲之子夏曰夫子能之而能不爲者也文侯大說有神巫自齊來處於鄭命曰季咸知人死生存亡禍福壽夭期以歲月旬日如神鄭人}
+  - {type: page-break, offset: 700, content: '', id: KR5c0049_SJB_000-110532a, image: sjb/11/110532a.png}
+  - {type: variant, offset: 702, length: 6, content: 宋刻新序同買, ZTDZ: 皆避而走列子見}
+  - {type: 'kr:newline', offset: 707, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl36}
+  - {type: line-break, offset: 707, content: '', id: KR5c0049_SBCK_000-4a11}
+  - {type: variant, offset: 709, length: 1, content: 許, ZTDZ: 而心醉而歸}
+  - {type: variant, offset: 711, length: 3, content: 八十金, ZTDZ: 告壺丘子曰始吾以夫子之道爲至矣則又有至焉者矣壺子曰吾與女既其文未既其實}
+  - {type: variant, offset: 715, length: 5, content: 始允余雖知, ZTDZ: 固得道歟衆雌而無雄而又奚卵焉而以道與世抗必信矣夫故使人得而相汝嘗試與來以予示之明日列子與之見壺子出而謂列子曰譆子之先生死矣弗活矣不可以旬數矣吾見怪焉見濕灰焉列子入涕泣沾衿以告壺子壺子曰向吾示之以地文罪合作萌乎不誫合作震不止}
+  - {type: variant, offset: 721, length: 1, content: 書, ZTDZ: 殆見吾杜德幾也嘗又與來明日又與}
+  - {type: variant, offset: 723, length: 1, content: 貴, ZTDZ: 見壺子出而謂列子曰幸矣子之先生遇我也有瘳矣灰然有生矣吾見杜權矣列子入告壺子壺子曰向吾示之以天壤名實不入而幾發於踵此爲杜權是殆見吾善者幾也嘗又與來}
+  - {type: page-break, offset: 723, content: '', id: KR5c0049_SJB_000-110532b, image: sjb/11/110532b.png}
+  - {type: variant, offset: 725, length: 1, content: 為, ZTDZ: 日}
+  - {type: variant, offset: 726, length: 1, content: 余, ZTDZ: 又}
+  - {type: variant, offset: 728, length: 1, content: 抱, ZTDZ: 之見壺子出而謂列子曰子之先生坐不齋吾無得而相焉試齋將且復相之列子入告壺子壺子曰向吾示之以太}
+  - {type: variant, offset: 730, length: 2, content: 争購, ZTDZ: 莫朕是殆見吾衡氣幾也鯢旋}
+  - {type: substitution, offset: 730, original: 争, replacement: 爭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3177}}
+  - {type: variant, offset: 733, length: 1, content: 故, ZTDZ: 潘}
+  - {type: 'kr:newline', offset: 734, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl37}
+  - {type: line-break, offset: 734, content: '', id: KR5c0049_SBCK_000-4a12}
+  - {type: variant, offset: 734, length: 1, content: 然, ZTDZ: 爲}
+  - {type: variant, offset: 735, length: 1, content: 此, ZTDZ: 淵}
+  - {type: variant, offset: 736, length: 1, content: 愛, ZTDZ: 止}
+  - {type: variant, offset: 737, length: 1, content: 書, ZTDZ: 水}
+  - {type: variant, offset: 739, length: 9, content: 私終不為所奪在余亦, ZTDZ: 潘爲淵流水之潘爲淵濫水之潘爲淵沃水之潘爲淵沈水之潘爲淵雍水之潘爲淵汧水之潘爲淵肥水之潘爲淵是爲九淵焉嘗又與來明日又與之見壺子立未定}
+  - {type: 'kr:non-cjk', offset: 749, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc9}
+  - {type: variant, offset: 749, length: 8, content: 其癡獃耳歳晚事忙, ZTDZ: 失而走壺子曰追之列子追之而}
+  - {type: substitution, offset: 751, original: 獃, replacement: 呆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0330}}
+  - {type: substitution, offset: 753, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3169}}
+  - {type: 'kr:newline', offset: 759, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl38}
+  - {type: line-break, offset: 759, content: '', id: KR5c0049_SBCK_000-4a13}
+  - {type: variant, offset: 759, length: 6, content: 叙得書顛末新, ZTDZ: 反以報壺子曰已滅矣已失矣吾不及也壺子曰向吾示之以未始出吾宗吾與之虚而猗移不知其誰何因以爲茅靡因以爲波流故逃也然後列子自以爲未始學而歸三}
+  - {type: variant, offset: 766, length: 5, content: 以守制居家, ZTDZ: ''}
+  - {type: variant, offset: 773, length: 0, content: '', ZTDZ: 爲其妻爨食狶如食人於事無親雕琢復朴塊然獨以其形立㤋然而封戎壹以是終子列子之齊中道而反遇伯昏瞀人伯昏瞀人曰奚方而反曰吾驚焉惡乎驚吾食於十漿而五漿先饋伯昏瞀人曰若是則汝何爲驚已曰夫内誠不解形諜成光以外鎮人心使人輕乎貴老而𩐎其所患夫漿人特爲食羹之貨無多餘之嬴其爲利也薄其爲權也輕而猶若是而況萬乘之主身勞於國而智盡於事彼將任我以事而效我以功吾是以驚伯昏瞀人曰善哉觀乎汝處已人將保汝矣無幾何而往則户外之屨滿矣伯昏瞀人北面而立敦杖蹙之乎頤立有間不言而出賔者以告列子列子提履徒跣而走暨乎}
+  - {type: page-break, offset: 773, content: '', id: KR5c0049_SJB_000-110532c, image: sjb/11/110532c.png}
+  - {type: variant, offset: 774, length: 9, content: 賀歳午窓新霽展函讀, ZTDZ: 問曰先生既來曾不廢藥乎曰已矣吾固告汝曰人將保汝果保汝矣非汝能使人保汝而汝不能使人無汝保也而焉用}
+  - {type: substitution, offset: 775, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3169}}
+  - {type: substitution, offset: 777, original: 窓, replacement: 窗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4417}}
+  - {type: 'kr:newline', offset: 784, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl39}
+  - {type: line-break, offset: 784, content: '', id: KR5c0049_SBCK_000-4a14}
+  - {type: variant, offset: 784, length: 3, content: 爰題數, ZTDZ: 感也感豫出異且必有感也揺而本身又無謂也與汝遊者莫汝告也彼所小言盡人毒也莫覺莫悟何相孰也楊朱南之沛老聃西遊於秦邀於郊至梁而遇老子老子中道仰天而嘆曰始以汝爲可教今不可教也楊朱不答至舍進涫漱巾櫛脱履户外膝}
+  - {type: variant, offset: 788, length: 4, content: 于後俾後, ZTDZ: 而前曰向者夫子仰天而嘆曰始以汝爲可教今不可教弟子欲請夫子辭行不間是以不敢今夫子問矣請問其過老子曰而睢睢而盱盱而誰與居大白若辱盛德若不足楊朱蹙然變容曰敬聞命矣其往也舍者迎將家公執席妻執巾櫛舍者避席煬者避竈其反也舍者與}
+  - {type: page-break, offset: 788, content: '', id: KR5c0049_SJB_000-110533a, image: sjb/11/110533a.png}
+  - {type: variant, offset: 793, length: 15, content: 覽者知異書忽來如景星卿雲争先覩, ZTDZ: 爭席矣楊朱過宋東}
+  - {type: substitution, offset: 805, original: 争, replacement: 爭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3177}}
+  - {type: 'kr:newline', offset: 809, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl40}
+  - {type: page-break, offset: 809, content: '', id: KR5c0049_SBCK_000-4b}
+  - {type: 'kr:newline', offset: 809, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl41}
+  - {type: line-break, offset: 809, content: '', id: KR5c0049_SBCK_000-4b01}
+  - {type: variant, offset: 809, length: 10, content: 為快癡獃如余尢有甚扵, ZTDZ: 於逆旅逆旅}
+  - {type: 'kr:non-cjk', offset: 811, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc10}
+  - {type: substitution, offset: 812, original: 獃, replacement: 呆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0330}}
+  - {type: substitution, offset: 818, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3889}}
+  - {type: variant, offset: 821, length: 0, content: '', ZTDZ: 妾二人其一人美其一人惡惡者貴而美者賤楊子問其故逆旅小子對曰其美者自美吾}
+  - {type: variant, offset: 822, length: 2, content: 竊相, ZTDZ: 知其美也其惡}
+  - {type: 'kr:non-cjk', offset: 824, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc11}
+  - {type: variant, offset: 825, length: 13, content: 乎大清嘉慶元年元旦日試筆書, ZTDZ: 自惡吾不知其惡也楊子曰弟子記之行賢而去自賢之行安往而不愛哉天下有常勝之道有不常勝之道常勝之道曰柔常不勝之道曰强二者亦知而人未之知故上古之言强先不己若者柔先出於己者先不己若者至於若己則殆矣先出於己者無所殆矣以}
+  - {type: 'kr:newline', offset: 826, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl42}
+  - {type: line-break, offset: 826, content: '', id: KR5c0049_SBCK_000-4b02}
+  - {type: variant, offset: 839, length: 0, content: '', ZTDZ: 勝一身若徒以此任天下若徒謂不勝而自勝不任而自任也粥子曰欲剛必以柔守之欲强必以弱保之積}
+  - {type: variant, offset: 840, length: 5, content: 昭明卷舊居, ZTDZ: 柔必剛積於弱必强觀其所積以知禍福}
+  - {type: variant, offset: 846, length: 4, content: 養恬書屋, ZTDZ: 鄉强勝不若己至於若己者剛柔勝出於己者其力不可量老聃曰兵强則滅木强則折柔弱者生之徒堅强者死之徒狀不必童而智童智不必童而狀童聖}
+  - {type: page-break, offset: 846, content: '', id: KR5c0049_SJB_000-110533b, image: sjb/11/110533b.png}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5c0049_SBCK_000-4b03}
+  - {type: indent, offset: 0, content: 　　　　　　　　　　　　　　　　　, id: KR5c0049_krp_000-bkkind1}
+  - {type: 'kr:non-cjk', offset: 0, content: ⬤, id: KR5c0049_krp_000-bkkkrnonc1}
+  - {type: variant, offset: 1, length: 28, content: 黄丕烈列子行世夲以世德堂六子中本為最余舊藏影宋鈔本抱冲曽, ZTDZ: ''}
+  - {type: substitution, offset: 1, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
+  - {type: 'kr:newline', offset: 4, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 4, content: '', id: KR5c0049_SBCK_000-4b04}
+  - {type: 'kr:newline', offset: 29, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 29, content: '', id: KR5c0049_SBCK_000-4b05}
+  - {type: variant, offset: 30, length: 6, content: 以世德堂本校, ZTDZ: 童智而遺童狀衆人近童狀而疏童智狀與我童近而愛}
+  - {type: variant, offset: 37, length: 1, content: 多, ZTDZ: 狀}
+  - {type: variant, offset: 38, length: 1, content: 所, ZTDZ: 與}
+  - {type: variant, offset: 39, length: 1, content: 岐, ZTDZ: 我}
+  - {type: variant, offset: 41, length: 19, content: 幾自矜為善本矣近得此本佳處更多鈔本遂遜, ZTDZ: 者疏}
+  - {type: 'kr:newline', offset: 55, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 55, content: '', id: KR5c0049_SBCK_000-4b06}
+  - {type: variant, offset: 61, length: 31, content: 居乙抱冲從弟澗蘋為余校是書見其中所附音始猶疑為殷敬順釋文後細審, ZTDZ: 畏}
+  - {type: 'kr:newline', offset: 81, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 81, content: '', id: KR5c0049_SBCK_000-4b07}
+  - {type: variant, offset: 93, length: 8, content: 乃知非釋文盖作注, ZTDZ: 有七尺之骸手足之異戴髮舍齒倚而趣}
+  - {type: substitution, offset: 98, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
+  - {type: variant, offset: 102, length: 0, content: '', ZTDZ: 謂}
+  - {type: variant, offset: 103, length: 12, content: 舊音也且為余為殷敬順乃宋, ZTDZ: ''}
+  - {type: 'kr:newline', offset: 108, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 108, content: '', id: KR5c0049_SBCK_000-4b08}
+  - {type: variant, offset: 117, length: 3, content: 託名唐, ZTDZ: 未必無獸心雖有獸心以狀而見親矣傳翼戴角分牙布爪仰飛伏走謂之禽獸而禽獸未必無}
+  - {type: variant, offset: 121, length: 0, content: '', ZTDZ: 心雖有人心以狀而見疏矣疱犧氏女蝸氏神農氏夏后氏蛇身人面牛首虎鼻此有非人之狀而有大聖之德夏桀殷紂魯桓楚穆狀貌七竅皆同於人而有禽獸之心而衆人守一狀以求至智未可幾也黄帝與炎帝戰於阪泉之野帥熊羆狼豹貙虎爲前驅鵰鵾鷹鳶爲旗幟此以力使禽獸}
+  - {type: variant, offset: 122, length: 0, content: '', ZTDZ: 也堯使夔典樂擊石拊石百獸率舞簫韶九成鳳凰來儀此以聲致禽獸者也然則禽獸之心奚爲異人形音與人異而不知接之之道焉聖人無所不知無所不通故得引而使之焉禽獸之智有自然與人童者其齊欲攝生亦不假智於人也牝牡相偶母子相親避平依險違寒就温居則有群行則有列小者居内壯者居外飲則相携食則鳴群太古之時則與人同處與人並行帝王之時始驚駭散亂矣逮於末世隱伏逃竄以避患害今東方介氏之國其國人數數解六畜之語者蓋偏知之所得太古神聖之人備知萬物情態悉解異類音聲會而聚之訓而受之同於人民故先會鬼神魑魅次達八方人民末聚禽獸蟲蛾言血氣之類心智不殊遠也神聖知其}
+  - {type: page-break, offset: 122, content: '', id: KR5c0049_SJB_000-110533c, image: sjb/11/110533c.png}
+  - {type: variant, offset: 124, length: 0, content: '', ZTDZ: 故其所教訓者無所遺逸焉宋有狙公者愛狙養之成羣能解狙之意狙亦得公之心損其家口充狙之欲俄而匱焉將限其食恐衆狙之不馴於己也先誑之曰與若芧朝三而暮四足乎衆狙皆起而怒俄而曰與若芧朝四而暮三足乎衆狙皆伏而喜物之以能鄙相籠皆猶此也聖人以智籠羣愚亦猶狙公之以智籠衆狙也名實不虧使其喜怒哉紀渻子爲周宣王養鬥鷄十日而問鷄可鬥已乎曰未也方虚驕而恃氣十日又問曰未也猶應影響十日又問曰未也猶疾視而盛氣十日又問曰幾矣鷄雖有鳴者已無變矣望之似木鷄矣其德全矣異鷄無敢應者反走耳惠盎見宋康王康王蹀足聲欬疾言曰寡人之所說者勇有力也不說爲仁義者也客將何以教寡人惠盎對曰臣有道於此使人雖有勇刺之不入雖有力擊之弗中大王獨無意邪宋王曰善此寡人之所欲聞也惠盎曰夫刺之不入擊之不中此猶辱也臣有道於此使人雖有勇弗敢刺雖有力弗敢擊夫弗敢非無其志也臣有道於此使人}
+  - {type: page-break, offset: 124, content: '', id: KR5c0049_SJB_000-110534a, image: sjb/11/110534a.png}
+  - {type: variant, offset: 125, length: 4, content: 字句釋文, ZTDZ: 無其志也夫無其志者未有愛利之心也臣有道於此使天下丈夫女子莫不驩然皆欲愛利之此其賢於勇有力也四累之上也大王獨無意邪宋王曰此寡人之}
+  - {type: variant, offset: 130, length: 6, content: 云一本作某某, ZTDZ: 欲得也惠盎對曰孔墨是已孔丘墨翟無地而爲君無官而爲長天下丈夫女子莫不延頸舉踵而願安利之今大王萬乘之主也誠有其志則四境之内}
+  - {type: 'kr:newline', offset: 135, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 135, content: '', id: KR5c0049_SBCK_000-4b09}
+  - {type: variant, offset: 137, length: 6, content: 與此合則此本, ZTDZ: 得其利矣其賢於孔墨也遠矣宋王無以應惠盎趨而出宋王謂左右曰辯矣客}
+  - {type: variant, offset: 144, length: 5, content: 在釋文未行, ZTDZ: ''}
+  - {type: variant, offset: 150, length: 28, content: 前可知列子善本絶少得此足正羣譌書前跋畢并記數語以傳信扵後, ZTDZ: 說服寡人也沖虚至德眞經卷上}
+  - {type: 'kr:newline', offset: 162, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 162, content: '', id: KR5c0049_SBCK_000-4b10}
+  - {type: substitution, offset: 164, original: 譌, replacement: 訛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0230}}
+  - {type: substitution, offset: 176, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3889}}
+  - {type: 'kr:newline', offset: 178, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl9}
+  - {type: page-break, offset: 178, content: '', id: KR5c0049_SBCK_000-5a}
+  - {type: 'kr:newline', offset: 178, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl10}
+  - {type: page-break, offset: 178, content: '', id: KR5c0049_SBCK_000-6a}
+  - {type: 'kr:newline', offset: 178, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl11}
+  - {type: page-break, offset: 178, content: '', id: KR5c0049_SBCK_000-7a}
+  - {type: 'kr:newline', offset: 178, content: '
+
+      ', id: KR5c0049_krp_000-bkkkrnewl12}
+  back: []
+hash: sha256:006de9ae5eb42bd7bbee2b3dc5342f7d93d2fcca913afaa2ac512a28437e4c3e

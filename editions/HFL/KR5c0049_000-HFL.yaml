@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0049/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 經
+  hash: sha256:c3f773b2ade2af757ac5a192f7f39c83c6118f8158a4057b5fa094f41c70920b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0049_HFL_002-035b, image: hfl/0349/0349-004.png}
+metadata:
+  title: 沖虚至德真經
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-09-11 06:35:54.351799'
+  source:
+    repository: kanripo
+    path: KR5c0049/KR5c0049_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:5b4c7be895bcaaa4bce6a2b7902e0300bbe5d17e96d9ddc2f2e7d4403aaab098
