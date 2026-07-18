@@ -30,6 +30,7 @@ markers:
   - {type: indent, offset: 7, content: 　　, id: KR5c0049_krp_001-bkkind3}
   - {type: punctuation, offset: 11, content: (, id: KR5c0049_krp_001-bkkpn1}
   - {type: variant, offset: 11, length: 64, content: 夫巨細舛錯脩短殊性雖天地之大羣品之衆渉於有生之分關於動用之域者存亡變化自然之符夫唯寂然至虚疑一而不變者非隂陽之所終始四時之所遷革, HFL: ''}
+  - {type: voice, offset: 11, length: 64, name: note, id: n1}
   - {type: substitution, offset: 16, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: variant, offset: 24, length: 3, content: 大羣品, ZTDZ: 於室屏左右而與}
   - {type: variant, offset: 28, length: 3, content: 衆渉於, ZTDZ: 言曰昔老聃之徂西也顧而告予曰}
@@ -62,18 +63,21 @@ markers:
   - {type: line-break, offset: 75, content: '', id: KR5c0049_SBCK_001-1a05}
   - {type: punctuation, offset: 78, content: (, id: KR5c0049_krp_001-bkkpn7}
   - {type: variant, offset: 78, length: 17, content: 載子於姓上者首章或是弟子之所記故也, HFL: ''}
+  - {type: voice, offset: 78, length: 17, name: note, id: n2}
   - {type: variant, offset: 84, length: 9, content: 首章或是弟子之所記, ZTDZ: 走走者飛終身不著其術}
   - {type: punctuation, offset: 87, content: /, id: KR5c0049_krp_001-bkkpn8}
   - {type: variant, offset: 94, length: 66, content: 也居鄭圃鄭有圃田四十年人无識者非形不與物接言不與物交不知其德之至則同於不識者矣國君卿大夫眎之猶衆庶也非自隔於物直言无是非行无軌迹則物, ZTDZ: 世}
   - {type: punctuation, offset: 95, content: ), id: KR5c0049_krp_001-bkkpn9}
   - {type: punctuation, offset: 98, content: (, id: KR5c0049_krp_001-bkkpn10}
   - {type: variant, offset: 98, length: 4, content: 鄭有圃田, HFL: ''}
+  - {type: voice, offset: 98, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 100, content: /, id: KR5c0049_krp_001-bkkpn11}
   - {type: punctuation, offset: 102, content: ), id: KR5c0049_krp_001-bkkpn12}
   - {type: variant, offset: 106, length: 1, content: 无, HFL: 無}
   - {type: substitution, offset: 106, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 109, content: (, id: KR5c0049_krp_001-bkkpn13}
   - {type: variant, offset: 109, length: 24, content: 非形不與物接言不與物交不知其德之至則同於不識者矣, HFL: ''}
+  - {type: voice, offset: 109, length: 24, name: note, id: n4}
   - {type: punctuation, offset: 111, content: /, id: KR5c0049_krp_001-bkkpn14}
   - {type: punctuation, offset: 113, content: ), id: KR5c0049_krp_001-bkkpn15}
   - {type: 'kr:newline', offset: 113, content: '
@@ -86,6 +90,7 @@ markers:
   - {type: substitution, offset: 138, original: 眎, replacement: 視, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16805}}
   - {type: punctuation, offset: 144, content: (, id: KR5c0049_krp_001-bkkpn19}
   - {type: variant, offset: 144, length: 20, content: 非自隔於物直言无是非行无軌迹則物莫能知也, HFL: ''}
+  - {type: voice, offset: 144, length: 20, name: note, id: n5}
   - {type: punctuation, offset: 151, content: /, id: KR5c0049_krp_001-bkkpn20}
   - {type: substitution, offset: 151, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 155, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -100,12 +105,14 @@ markers:
   - {type: punctuation, offset: 164, content: ), id: KR5c0049_krp_001-bkkpn24}
   - {type: punctuation, offset: 167, content: (, id: KR5c0049_krp_001-bkkpn25}
   - {type: variant, offset: 167, length: 2, content: 年饑, HFL: ''}
+  - {type: voice, offset: 167, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 168, content: /, id: KR5c0049_krp_001-bkkpn26}
   - {type: substitution, offset: 168, original: 饑, replacement: 飢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16274}}
   - {type: punctuation, offset: 169, content: ), id: KR5c0049_krp_001-bkkpn27}
   - {type: variant, offset: 172, length: 8, content: 衞自家而出謂之嫁, HFL: 衛}
   - {type: substitution, offset: 172, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 173, content: (, id: KR5c0049_krp_001-bkkpn28}
+  - {type: voice, offset: 173, length: 7, name: note, id: n7}
   - {type: punctuation, offset: 177, content: /, id: KR5c0049_krp_001-bkkpn29}
   - {type: punctuation, offset: 180, content: ), id: KR5c0049_krp_001-bkkpn30}
   - {type: variant, offset: 186, length: 1, content: 无, HFL: 無}
@@ -119,6 +126,7 @@ markers:
   - {type: variant, offset: 205, length: 1, content: 壷, HFL: 壺}
   - {type: punctuation, offset: 212, content: (, id: KR5c0049_krp_001-bkkpn31}
   - {type: variant, offset: 212, length: 8, content: 壷丘子林列子之師, HFL: ''}
+  - {type: voice, offset: 212, length: 8, name: note, id: n8}
   - {type: punctuation, offset: 216, content: /, id: KR5c0049_krp_001-bkkpn32}
   - {type: punctuation, offset: 220, content: ), id: KR5c0049_krp_001-bkkpn33}
   - {type: 'kr:newline', offset: 223, content: '
@@ -133,6 +141,7 @@ markers:
   - {type: variant, offset: 227, length: 11, content: 言哉四時行百物生豈假於, HFL: ''}
   - {type: punctuation, offset: 229, content: (, id: KR5c0049_krp_001-bkkpn34}
   - {type: variant, offset: 229, length: 0, content: '', ZTDZ: 覺有八徴夢有六候奚謂八徴一曰故二曰爲三曰得}
+  - {type: voice, offset: 229, length: 11, name: note, id: n9}
   - {type: variant, offset: 230, length: 4, content: 時行百物, ZTDZ: 曰喪五曰哀六曰樂七曰}
   - {type: punctuation, offset: 235, content: /, id: KR5c0049_krp_001-bkkpn35}
   - {type: variant, offset: 235, length: 42, content: 豈假於言哉雖然夫子嘗語伯昏瞀人吾側聞之試以告女伯昏列子之友同學於壷子不言自受敎於壷子, ZTDZ: 八曰死此}
@@ -143,6 +152,7 @@ markers:
   - {type: line-break, offset: 253, content: '', id: KR5c0049_SBCK_001-1a10}
   - {type: punctuation, offset: 258, content: (, id: KR5c0049_krp_001-bkkpn37}
   - {type: variant, offset: 258, length: 26, content: 伯昏列子之友同學於壷子不言自受敎於壷子者列子之謙者也, HFL: ''}
+  - {type: voice, offset: 258, length: 26, name: note, id: n10}
   - {type: punctuation, offset: 271, content: /, id: KR5c0049_krp_001-bkkpn38}
   - {type: substitution, offset: 273, original: 敎, replacement: 教, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20071}}
   - {type: variant, offset: 278, length: 4, content: 列子之謙, ZTDZ: 八徴形所接也奚謂六候一曰正夢二曰蘁夢三曰思夢四曰寤夢五曰喜夢六曰懼夢此六}
@@ -150,6 +160,7 @@ markers:
   - {type: punctuation, offset: 284, content: ), id: KR5c0049_krp_001-bkkpn39}
   - {type: punctuation, offset: 289, content: (, id: KR5c0049_krp_001-bkkpn40}
   - {type: variant, offset: 289, length: 5, content: 今塊然之也, HFL: ''}
+  - {type: voice, offset: 289, length: 5, name: note, id: n11}
   - {type: punctuation, offset: 292, content: /, id: KR5c0049_krp_001-bkkpn41}
   - {type: 'kr:non-cjk', offset: 293, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc2}
   - {type: punctuation, offset: 294, content: ), id: KR5c0049_krp_001-bkkpn42}
@@ -160,18 +171,22 @@ markers:
   - {type: line-break, offset: 296, content: '', id: KR5c0049_SBCK_001-1a11}
   - {type: punctuation, offset: 296, content: (, id: KR5c0049_krp_001-bkkpn43}
   - {type: variant, offset: 296, length: 8, content: 生物而不自生者也, HFL: ''}
+  - {type: voice, offset: 296, length: 8, name: note, id: n12}
   - {type: punctuation, offset: 300, content: /, id: KR5c0049_krp_001-bkkpn44}
   - {type: punctuation, offset: 304, content: ), id: KR5c0049_krp_001-bkkpn45}
   - {type: punctuation, offset: 306, content: (, id: KR5c0049_krp_001-bkkpn46}
   - {type: variant, offset: 306, length: 6, content: 今存三變政也, HFL: ''}
+  - {type: voice, offset: 306, length: 6, name: note, id: n13}
   - {type: punctuation, offset: 309, content: /, id: KR5c0049_krp_001-bkkpn47}
   - {type: variant, offset: 310, length: 361, content: 政也不化化物而不自化者也不生者能生生不生者固生物之宗不化者能化化不化者固化物之主生者不能不生化者不能不化生者非能生而生化者非能化而化也直自不得不生不得不化者也故常生常化渉於有動之分者不得蹔無也常生常化者无時不生无時不化生化相因存亡復往理无閒也隂陽爾四時爾隂陽四時節變化之物而復屬於有生之域者皆隨此陶運四時而不停萬物化而不息者也不生者疑獨不生之主豈可實而驗哉疑其冥一而无始終也不化者徃復其際不可終代謝无閒形氣轉續其道不終疑獨其道不可窮亦何以知其窮與不窮哉直自疑其獨立而不改周行而不殆也黃帝書曰谷神不死古有此書今巳不存夫谷虚而宅有亦如莊子之稱環中至虚无物故謂谷神本自无生故曰不死是謂牝老子有此一章王弼注曰无形无影无逆无違處卑不動守靜不衰谷以之成而不見其形此至物也處卑而不可得名故謂之牝牝之門是謂天地之根綿綿存用之不勤王弼曰門牝, ZTDZ: ''}
   - {type: punctuation, offset: 312, content: ), id: KR5c0049_krp_001-bkkpn48}
   - {type: punctuation, offset: 314, content: (, id: KR5c0049_krp_001-bkkpn49}
   - {type: variant, offset: 314, length: 8, content: 化物而不自化者也, HFL: ''}
+  - {type: voice, offset: 314, length: 8, name: note, id: n14}
   - {type: punctuation, offset: 318, content: /, id: KR5c0049_krp_001-bkkpn50}
   - {type: punctuation, offset: 322, content: ), id: KR5c0049_krp_001-bkkpn51}
   - {type: punctuation, offset: 328, content: (, id: KR5c0049_krp_001-bkkpn52}
+  - {type: voice, offset: 328, length: 8, name: note, id: n15}
   - {type: variant, offset: 329, length: 8, content: 生者固生物之宗不, HFL: ''}
   - {type: punctuation, offset: 332, content: /, id: KR5c0049_krp_001-bkkpn53}
   - {type: punctuation, offset: 336, content: ), id: KR5c0049_krp_001-bkkpn54}
@@ -181,10 +196,12 @@ markers:
   - {type: line-break, offset: 339, content: '', id: KR5c0049_SBCK_001-1a12}
   - {type: punctuation, offset: 342, content: (, id: KR5c0049_krp_001-bkkpn55}
   - {type: variant, offset: 342, length: 8, content: 不化者固化物之主, HFL: ''}
+  - {type: voice, offset: 342, length: 8, name: note, id: n16}
   - {type: punctuation, offset: 346, content: /, id: KR5c0049_krp_001-bkkpn56}
   - {type: punctuation, offset: 350, content: ), id: KR5c0049_krp_001-bkkpn57}
   - {type: punctuation, offset: 362, content: (, id: KR5c0049_krp_001-bkkpn58}
   - {type: variant, offset: 362, length: 27, content: 生者非能生而生化者非能化而化也直自不得不生不得不化者也, HFL: ''}
+  - {type: voice, offset: 362, length: 27, name: note, id: n17}
   - {type: punctuation, offset: 370, content: /, id: KR5c0049_krp_001-bkkpn59}
   - {type: punctuation, offset: 378, content: ), id: KR5c0049_krp_001-bkkpn60}
   - {type: 'kr:newline', offset: 378, content: '
@@ -197,6 +214,7 @@ markers:
   - {type: punctuation, offset: 394, content: (, id: KR5c0049_krp_001-bkkpn64}
   - {type: variant, offset: 394, length: 12, content: 渉於有動之分者不得蹔無也, HFL: ''}
   - {type: substitution, offset: 394, original: 渉, replacement: 涉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20791}}
+  - {type: voice, offset: 394, length: 12, name: note, id: n18}
   - {type: punctuation, offset: 400, content: /, id: KR5c0049_krp_001-bkkpn65}
   - {type: substitution, offset: 403, original: 蹔, replacement: 暫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17444}}
   - {type: punctuation, offset: 406, content: ), id: KR5c0049_krp_001-bkkpn66}
@@ -211,12 +229,14 @@ markers:
   - {type: line-break, offset: 416, content: '', id: KR5c0049_SBCK_001-1a14}
   - {type: punctuation, offset: 419, content: (, id: KR5c0049_krp_001-bkkpn67}
   - {type: variant, offset: 419, length: 13, content: 生化相因存亡復往理无閒也隂, HFL: 陰}
+  - {type: voice, offset: 419, length: 12, name: note, id: n19}
   - {type: punctuation, offset: 425, content: /, id: KR5c0049_krp_001-bkkpn68}
   - {type: substitution, offset: 428, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 429, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 431, content: ), id: KR5c0049_krp_001-bkkpn69}
   - {type: punctuation, offset: 437, content: (, id: KR5c0049_krp_001-bkkpn70}
   - {type: variant, offset: 437, length: 36, content: 隂陽四時節變化之物而復屬於有生之域者皆隨此陶運四時而不停萬物化而不息者也, HFL: ''}
+  - {type: voice, offset: 437, length: 36, name: note, id: n20}
   - {type: punctuation, offset: 450, content: /, id: KR5c0049_krp_001-bkkpn71}
   - {type: punctuation, offset: 462, content: ), id: KR5c0049_krp_001-bkkpn72}
   - {type: 'kr:newline', offset: 462, content: '
@@ -231,6 +251,7 @@ markers:
   - {type: punctuation, offset: 468, content: /, id: KR5c0049_krp_001-bkkpn74}
   - {type: punctuation, offset: 473, content: ), id: KR5c0049_krp_001-bkkpn75}
   - {type: punctuation, offset: 478, content: (, id: KR5c0049_krp_001-bkkpn76}
+  - {type: voice, offset: 478, length: 19, name: note, id: n21}
   - {type: variant, offset: 479, length: 19, content: 生之主豈可實而驗哉疑其冥一而无始終也不, HFL: ''}
   - {type: punctuation, offset: 488, content: /, id: KR5c0049_krp_001-bkkpn77}
   - {type: substitution, offset: 493, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -243,12 +264,14 @@ markers:
   - {type: line-break, offset: 504, content: '', id: KR5c0049_SBCK_001-1b02}
   - {type: variant, offset: 506, length: 12, content: 終代謝无閒形氣轉續其道不, HFL: ''}
   - {type: punctuation, offset: 507, content: (, id: KR5c0049_krp_001-bkkpn79}
+  - {type: voice, offset: 507, length: 12, name: note, id: n22}
   - {type: substitution, offset: 509, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 510, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 513, content: /, id: KR5c0049_krp_001-bkkpn80}
   - {type: punctuation, offset: 519, content: ), id: KR5c0049_krp_001-bkkpn81}
   - {type: punctuation, offset: 526, content: (, id: KR5c0049_krp_001-bkkpn82}
   - {type: variant, offset: 526, length: 26, content: 亦何以知其窮與不窮哉直自疑其獨立而不改周行而不殆也黃, HFL: 黄}
+  - {type: voice, offset: 526, length: 25, name: note, id: n23}
   - {type: punctuation, offset: 538, content: /, id: KR5c0049_krp_001-bkkpn83}
   - {type: punctuation, offset: 550, content: ), id: KR5c0049_krp_001-bkkpn84}
   - {type: 'kr:newline', offset: 550, content: '
@@ -259,6 +282,7 @@ markers:
   - {type: punctuation, offset: 551, content: ), id: KR5c0049_krp_001-bkkpn86}
   - {type: punctuation, offset: 559, content: (, id: KR5c0049_krp_001-bkkpn87}
   - {type: variant, offset: 559, length: 38, content: 古有此書今巳不存夫谷虚而宅有亦如莊子之稱環中至虚无物故謂谷神本自无生故曰不死, HFL: ''}
+  - {type: voice, offset: 559, length: 38, name: note, id: n24}
   - {type: substitution, offset: 569, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 578, content: /, id: KR5c0049_krp_001-bkkpn88}
   - {type: substitution, offset: 582, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
@@ -273,6 +297,7 @@ markers:
   - {type: variant, offset: 599, length: 0, content: '', HFL: 玄}
   - {type: punctuation, offset: 600, content: (, id: KR5c0049_krp_001-bkkpn90}
   - {type: variant, offset: 600, length: 50, content: 老子有此一章王弼注曰无形无影无逆无違處卑不動守靜不衰谷以之成而不見其形此至物也處卑而不可得名故謂之牝, HFL: 玄}
+  - {type: voice, offset: 600, length: 50, name: note, id: n25}
   - {type: substitution, offset: 610, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 612, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 614, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -289,6 +314,7 @@ markers:
   - {type: variant, offset: 661, length: 0, content: '', HFL: 若}
   - {type: variant, offset: 664, length: 57, content: 不勤王弼曰門牝之所由也本其所由與太極同體故謂天地之根也欲言存邪不見其欲言亡邪萬物以生故曰綿綿存无物不成而不勞也故曰, HFL: ''}
   - {type: punctuation, offset: 666, content: (, id: KR5c0049_krp_001-bkkpn93}
+  - {type: voice, offset: 666, length: 57, name: note, id: n26}
   - {type: 'kr:non-cjk', offset: 670, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc7}
   - {type: variant, offset: 673, length: 3, content: 由也本, ZTDZ: 起者事至則惑}
   - {type: punctuation, offset: 674, content: /, id: KR5c0049_krp_001-bkkpn94}
@@ -312,6 +338,7 @@ markers:
   - {type: line-break, offset: 731, content: '', id: KR5c0049_SBCK_001-1b07}
   - {type: punctuation, offset: 734, content: (, id: KR5c0049_krp_001-bkkpn99}
   - {type: variant, offset: 734, length: 100, content: 莊子亦有此言向秀注曰吾之生也非吾之所生則生自生耳生生者豈有物哉故不生也吾之化也非物之所化則化自化耳化化者豈有物哉无物也故不化焉使生物者亦生化物者亦化則與物俱化亦奚異於物明夫不生不化者然後能爲生化之本也, HFL: ''}
+  - {type: voice, offset: 734, length: 100, name: note, id: n27}
   - {type: punctuation, offset: 760, content: /, id: KR5c0049_krp_001-bkkpn100}
   - {type: punctuation, offset: 786, content: ), id: KR5c0049_krp_001-bkkpn101}
   - {type: 'kr:newline', offset: 786, content: '
@@ -334,6 +361,7 @@ markers:
   - {type: line-break, offset: 839, content: '', id: KR5c0049_SBCK_001-1b09}
   - {type: punctuation, offset: 850, content: (, id: KR5c0049_krp_001-bkkpn105}
   - {type: variant, offset: 850, length: 12, content: 皆自爾耳豈有尸而爲之者哉, HFL: ''}
+  - {type: voice, offset: 850, length: 12, name: note, id: n28}
   - {type: punctuation, offset: 856, content: /, id: KR5c0049_krp_001-bkkpn106}
   - {type: variant, offset: 858, length: 2, content: 爲之, ZTDZ: 寢則夢蛇飛鳥銜髮則夢飛將陰夢火將疾夢食飲酒}
   - {type: substitution, offset: 858, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -347,6 +375,7 @@ markers:
   - {type: punctuation, offset: 875, content: (, id: KR5c0049_krp_001-bkkpn108}
   - {type: 'kr:non-cjk', offset: 875, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc11}
   - {type: variant, offset: 875, length: 24, content: 有心於生化形色則豈能官天地而府萬物瞻羣生而不遺乎, HFL: ''}
+  - {type: voice, offset: 875, length: 24, name: note, id: n29}
   - {type: punctuation, offset: 887, content: /, id: KR5c0049_krp_001-bkkpn109}
   - {type: punctuation, offset: 899, content: ), id: KR5c0049_krp_001-bkkpn110}
   - {type: variant, offset: 903, length: 1, content: 昔, ZTDZ: 神遇爲夢形接爲事故晝想夜夢神形所遇故神凝}
@@ -362,6 +391,7 @@ markers:
   - {type: variant, offset: 911, length: 5, content: 統天地天地, ZTDZ: 夢中所爲}
   - {type: punctuation, offset: 914, content: (, id: KR5c0049_krp_001-bkkpn111}
   - {type: variant, offset: 914, length: 15, content: 天地者舉而言隂陽者明其度數統理, HFL: ''}
+  - {type: voice, offset: 914, length: 15, name: note, id: n30}
   - {type: variant, offset: 917, length: 4, content: 舉而言隂, ZTDZ: 實覺之所見者妄四海之齊謂中央之跨河南北越岱東西萬有餘里其陰}
   - {type: 'kr:non-cjk', offset: 918, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc12}
   - {type: punctuation, offset: 921, content: /, id: KR5c0049_krp_001-bkkpn112}
@@ -373,6 +403,7 @@ markers:
   - {type: substitution, offset: 935, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 937, content: (, id: KR5c0049_krp_001-bkkpn114}
   - {type: variant, offset: 937, length: 79, content: 謂之生者則不无无者則不生故有无之不相生理旣然矣則有何由而生忽爾而自生忽爾而自生而不知其所以生不知所以生生則本同於无本同於无而非无也此明有形之自形无形以相形者也, HFL: ''}
+  - {type: voice, offset: 937, length: 79, name: note, id: n31}
   - {type: variant, offset: 939, length: 8, content: 生者則不无无者則, ZTDZ: 照其土}
   - {type: substitution, offset: 943, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 944, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -415,11 +446,13 @@ markers:
   - {type: punctuation, offset: 1016, content: ), id: KR5c0049_krp_001-bkkpn121}
   - {type: variant, offset: 1021, length: 10, content: 生天地无所從生而自然, HFL: ''}
   - {type: punctuation, offset: 1022, content: (, id: KR5c0049_krp_001-bkkpn122}
+  - {type: voice, offset: 1022, length: 10, name: note, id: n32}
   - {type: substitution, offset: 1024, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 1027, content: /, id: KR5c0049_krp_001-bkkpn123}
   - {type: punctuation, offset: 1032, content: ), id: KR5c0049_krp_001-bkkpn124}
   - {type: punctuation, offset: 1046, content: (, id: KR5c0049_krp_001-bkkpn125}
   - {type: variant, offset: 1046, length: 15, content: 此明物之自㣲至著變化之相因襲也, HFL: ''}
+  - {type: voice, offset: 1046, length: 15, name: note, id: n33}
   - {type: punctuation, offset: 1047, content: /, id: KR5c0049_krp_001-bkkpn126}
   - {type: punctuation, offset: 1048, content: ), id: KR5c0049_krp_001-bkkpn127}
   - {type: 'kr:newline', offset: 1048, content: '
@@ -432,6 +465,7 @@ markers:
   - {type: punctuation, offset: 1061, content: ), id: KR5c0049_krp_001-bkkpn130}
   - {type: variant, offset: 1067, length: 31, content: 也易者不窮滯之稱凝寂於太虚之域將何所見即如易繫之太極老氏之渾成, HFL: ''}
   - {type: punctuation, offset: 1068, content: (, id: KR5c0049_krp_001-bkkpn131}
+  - {type: voice, offset: 1068, length: 31, name: note, id: n34}
   - {type: substitution, offset: 1079, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 1083, content: /, id: KR5c0049_krp_001-bkkpn132}
   - {type: punctuation, offset: 1098, content: ), id: KR5c0049_krp_001-bkkpn133}
@@ -448,10 +482,12 @@ markers:
   - {type: punctuation, offset: 1099, content: ), id: KR5c0049_krp_001-bkkpn135}
   - {type: punctuation, offset: 1106, content: (, id: KR5c0049_krp_001-bkkpn136}
   - {type: variant, offset: 1106, length: 12, content: 隂陽未判即下句所謂渾淪也, HFL: ''}
+  - {type: voice, offset: 1106, length: 12, name: note, id: n35}
   - {type: punctuation, offset: 1112, content: /, id: KR5c0049_krp_001-bkkpn137}
   - {type: punctuation, offset: 1118, content: ), id: KR5c0049_krp_001-bkkpn138}
   - {type: variant, offset: 1124, length: 10, content: 也隂陽旣判則品物流形, HFL: ''}
   - {type: punctuation, offset: 1125, content: (, id: KR5c0049_krp_001-bkkpn139}
+  - {type: voice, offset: 1125, length: 10, name: note, id: n36}
   - {type: substitution, offset: 1127, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: punctuation, offset: 1130, content: /, id: KR5c0049_krp_001-bkkpn140}
   - {type: punctuation, offset: 1135, content: ), id: KR5c0049_krp_001-bkkpn141}
@@ -461,12 +497,14 @@ markers:
   - {type: line-break, offset: 1137, content: '', id: KR5c0049_SBCK_001-2a02}
   - {type: punctuation, offset: 1142, content: (, id: KR5c0049_krp_001-bkkpn142}
   - {type: variant, offset: 1142, length: 20, content: 質性也旣爲物矣則方貟剛柔靜躁沈浮各有其性, HFL: ''}
+  - {type: voice, offset: 1142, length: 20, name: note, id: n37}
   - {type: substitution, offset: 1145, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: substitution, offset: 1146, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1152, content: /, id: KR5c0049_krp_001-bkkpn143}
   - {type: punctuation, offset: 1162, content: ), id: KR5c0049_krp_001-bkkpn144}
   - {type: punctuation, offset: 1170, content: (, id: KR5c0049_krp_001-bkkpn145}
   - {type: variant, offset: 1170, length: 26, content: 此直論氣形質不復說太易太易爲三者宗本於後句别自明之也, HFL: ''}
+  - {type: voice, offset: 1170, length: 26, name: note, id: n38}
   - {type: punctuation, offset: 1174, content: /, id: KR5c0049_krp_001-bkkpn146}
   - {type: punctuation, offset: 1178, content: ), id: KR5c0049_krp_001-bkkpn147}
   - {type: 'kr:newline', offset: 1178, content: '
@@ -485,6 +523,7 @@ markers:
       ', id: KR5c0049_krp_001-bkkkrnewl33}
   - {type: line-break, offset: 1214, content: '', id: KR5c0049_SBCK_001-2a04}
   - {type: punctuation, offset: 1214, content: (, id: KR5c0049_krp_001-bkkpn151}
+  - {type: voice, offset: 1214, length: 25, name: note, id: n39}
   - {type: punctuation, offset: 1227, content: /, id: KR5c0049_krp_001-bkkpn152}
   - {type: punctuation, offset: 1239, content: ), id: KR5c0049_krp_001-bkkpn153}
   - {type: 'kr:newline', offset: 1254, content: '
@@ -495,6 +534,7 @@ markers:
   - {type: substitution, offset: 1256, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 1258, content: (, id: KR5c0049_krp_001-bkkpn154}
   - {type: variant, offset: 1258, length: 50, content: 不知此下一字老子曰視之不見名曰希而此曰易易亦希簡之别稱也太易之義如此而巳故能爲萬化宗主㝠一而不變者也, HFL: 埒}
+  - {type: voice, offset: 1258, length: 50, name: note, id: n40}
   - {type: punctuation, offset: 1283, content: /, id: KR5c0049_krp_001-bkkpn155}
   - {type: substitution, offset: 1296, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 1301, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17241}}
@@ -506,6 +546,7 @@ markers:
   - {type: substitution, offset: 1311, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1313, content: (, id: KR5c0049_krp_001-bkkpn157}
   - {type: variant, offset: 1313, length: 22, content: 所謂易者窈冥惚恍不可變也一氣侍之而化故名變耳, HFL: ''}
+  - {type: voice, offset: 1313, length: 22, name: note, id: n41}
   - {type: punctuation, offset: 1325, content: /, id: KR5c0049_krp_001-bkkpn158}
   - {type: 'kr:non-cjk', offset: 1332, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc13}
   - {type: punctuation, offset: 1335, content: ), id: KR5c0049_krp_001-bkkpn159}
@@ -517,6 +558,7 @@ markers:
   - {type: line-break, offset: 1345, content: '', id: KR5c0049_SBCK_001-2a07}
   - {type: punctuation, offset: 1350, content: (, id: KR5c0049_krp_001-bkkpn160}
   - {type: variant, offset: 1350, length: 22, content: 究窮也一變而爲七九不以次數者全舉陽數領其都㑹, HFL: ''}
+  - {type: voice, offset: 1350, length: 22, name: note, id: n42}
   - {type: substitution, offset: 1356, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1361, content: /, id: KR5c0049_krp_001-bkkpn161}
   - {type: substitution, offset: 1371, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
@@ -530,6 +572,7 @@ markers:
   - {type: punctuation, offset: 1384, content: (, id: KR5c0049_krp_001-bkkpn163}
   - {type: variant, offset: 1384, length: 46, content: 旣涉於有形之域理數相推自一之九九數旣終乃復反而爲一反而爲一歸於形變之始此蓋明變化往復无窮極淸, HFL: 清}
   - {type: substitution, offset: 1384, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
+  - {type: voice, offset: 1384, length: 45, name: note, id: n43}
   - {type: substitution, offset: 1401, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: punctuation, offset: 1407, content: /, id: KR5c0049_krp_001-bkkpn164}
   - {type: substitution, offset: 1407, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -544,6 +587,7 @@ markers:
   - {type: substitution, offset: 1439, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1441, content: (, id: KR5c0049_krp_001-bkkpn166}
   - {type: variant, offset: 1441, length: 27, content: 天地何邪直虚實清濁之自分判者耳此一章全是周易乾鑿度也沖, HFL: 冲}
+  - {type: voice, offset: 1441, length: 26, name: note, id: n44}
   - {type: substitution, offset: 1446, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 1454, content: /, id: KR5c0049_krp_001-bkkpn167}
   - {type: punctuation, offset: 1467, content: ), id: KR5c0049_krp_001-bkkpn168}
@@ -554,6 +598,7 @@ markers:
   - {type: line-break, offset: 1476, content: '', id: KR5c0049_SBCK_001-2a10}
   - {type: punctuation, offset: 1482, content: (, id: KR5c0049_krp_001-bkkpn169}
   - {type: variant, offset: 1482, length: 28, content: 推此言之則隂陽氣偏交㑹而氣和氣和而爲人生人生則有所而立也, HFL: ''}
+  - {type: voice, offset: 1482, length: 28, name: note, id: n45}
   - {type: substitution, offset: 1492, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 1497, content: /, id: KR5c0049_krp_001-bkkpn170}
   - {type: substitution, offset: 1499, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -571,6 +616,7 @@ markers:
   - {type: substitution, offset: 1526, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 1529, content: (, id: KR5c0049_krp_001-bkkpn172}
   - {type: variant, offset: 1529, length: 4, content: 全猶備也, HFL: ''}
+  - {type: voice, offset: 1529, length: 4, name: note, id: n46}
   - {type: punctuation, offset: 1531, content: /, id: KR5c0049_krp_001-bkkpn173}
   - {type: punctuation, offset: 1533, content: ), id: KR5c0049_krp_001-bkkpn174}
   - {type: 'kr:newline', offset: 1543, content: '
@@ -581,6 +627,7 @@ markers:
   - {type: substitution, offset: 1544, original: 敎, replacement: 教, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20071}}
   - {type: variant, offset: 1549, length: 15, content: 冝職王也生各有性性各有所冝者也, HFL: 宜}
   - {type: punctuation, offset: 1550, content: (, id: KR5c0049_krp_001-bkkpn175}
+  - {type: voice, offset: 1550, length: 14, name: note, id: n47}
   - {type: punctuation, offset: 1557, content: /, id: KR5c0049_krp_001-bkkpn176}
   - {type: punctuation, offset: 1564, content: ), id: KR5c0049_krp_001-bkkpn177}
   - {type: page-break, offset: 1570, content: '', id: KR5c0049_HFL_000-003b, image: hfl/0348/0348-009.png}
@@ -590,6 +637,7 @@ markers:
   - {type: line-break, offset: 1576, content: '', id: KR5c0049_SBCK_001-2a13}
   - {type: punctuation, offset: 1582, content: (, id: KR5c0049_krp_001-bkkpn178}
   - {type: variant, offset: 1582, length: 38, content: 大體適於一方者造餘塗則閡矣王弼曰形必有所分聲必有所屬温也則不能凉宫也則不能商, HFL: ''}
+  - {type: voice, offset: 1582, length: 38, name: note, id: n48}
   - {type: punctuation, offset: 1602, content: /, id: KR5c0049_krp_001-bkkpn179}
   - {type: 'kr:non-cjk', offset: 1608, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc15}
   - {type: substitution, offset: 1608, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
@@ -606,6 +654,7 @@ markers:
   - {type: substitution, offset: 1636, original: 敎, replacement: 教, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20071}}
   - {type: variant, offset: 1643, length: 7, content: 冝順之則通也冝, HFL: 宜宜}
   - {type: punctuation, offset: 1644, content: (, id: KR5c0049_krp_001-bkkpn181}
+  - {type: voice, offset: 1644, length: 5, name: note, id: n49}
   - {type: punctuation, offset: 1647, content: /, id: KR5c0049_krp_001-bkkpn182}
   - {type: punctuation, offset: 1649, content: ), id: KR5c0049_krp_001-bkkpn183}
   - {type: 'kr:newline', offset: 1651, content: '
@@ -618,6 +667,7 @@ markers:
   - {type: line-break, offset: 1651, content: '', id: KR5c0049_SBCK_001-2b01}
   - {type: variant, offset: 1655, length: 9, content: 也皆有素分不可逆也, HFL: 位}
   - {type: punctuation, offset: 1656, content: (, id: KR5c0049_krp_001-bkkpn184}
+  - {type: voice, offset: 1656, length: 8, name: note, id: n50}
   - {type: punctuation, offset: 1660, content: /, id: KR5c0049_krp_001-bkkpn185}
   - {type: punctuation, offset: 1664, content: ), id: KR5c0049_krp_001-bkkpn186}
   - {type: variant, offset: 1668, length: 1, content: 道, ZTDZ: 有無今頓識既往數十年來存亡得失哀樂好惡擾擾萬緒起矣吾恐將來之存亡得失哀樂好惡之亂吾心如此也須臾之忘可復得乎子貢聞而怪之以告孔子孔子曰此}
@@ -639,6 +689,7 @@ markers:
   - {type: variant, offset: 1695, length: 42, content: 不能出所位者也方貟靜躁理不得兼然尋即事則名分不可相干任理之通方貟未必相乖故二儀之德聖, ZTDZ: 嘆指舍曰此若先}
   - {type: punctuation, offset: 1702, content: (, id: KR5c0049_krp_001-bkkpn187}
   - {type: variant, offset: 1702, length: 103, content: 方貟靜躁理不得兼然尋即事則名分不可相干任理之通方貟未必相乖故二儀之德聖人之道燾育羣生澤周萬物盡其清寜貞粹而巳則殊塗融通動靜澄一蓋由聖人不逆萬物之性萬物不犯聖人之化凡滯於一方者形分之所閡耳道之所運常冥通而无待, HFL: ''}
+  - {type: voice, offset: 1702, length: 103, name: note, id: n51}
   - {type: punctuation, offset: 1708, content: /, id: KR5c0049_krp_001-bkkpn188}
   - {type: 'kr:non-cjk', offset: 1712, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc17}
   - {type: punctuation, offset: 1713, content: ), id: KR5c0049_krp_001-bkkpn189}
@@ -671,6 +722,7 @@ markers:
   - {type: line-break, offset: 1819, content: '', id: KR5c0049_SBCK_001-2b05}
   - {type: punctuation, offset: 1841, content: (, id: KR5c0049_krp_001-bkkpn196}
   - {type: variant, offset: 1841, length: 53, content: 形聲色味皆忽爾而生不能自生者也夫不能自生則无爲之本无爲之本則无當於一象无係於一味故能爲形氣之主動必由之者也, HFL: ''}
+  - {type: voice, offset: 1841, length: 53, name: note, id: n52}
   - {type: punctuation, offset: 1844, content: /, id: KR5c0049_krp_001-bkkpn197}
   - {type: punctuation, offset: 1847, content: ), id: KR5c0049_krp_001-bkkpn198}
   - {type: 'kr:newline', offset: 1847, content: '
@@ -710,6 +762,7 @@ markers:
   - {type: line-break, offset: 1948, content: '', id: KR5c0049_SBCK_001-2b09}
   - {type: punctuation, offset: 1962, content: (, id: KR5c0049_krp_001-bkkpn202}
   - {type: variant, offset: 1962, length: 5, content: 夫盡於一者, HFL: ''}
+  - {type: voice, offset: 1962, length: 27, name: note, id: n53}
   - {type: 'kr:non-cjk', offset: 1966, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc20}
   - {type: variant, offset: 1968, length: 23, content: 隨代謝而遷革矣故生者必終而生生物者无變化也皆无, HFL: 無}
   - {type: punctuation, offset: 1974, content: /, id: KR5c0049_krp_001-bkkpn203}
@@ -726,6 +779,7 @@ markers:
   - {type: substitution, offset: 1991, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1995, content: (, id: KR5c0049_krp_001-bkkpn208}
   - {type: variant, offset: 1995, length: 4, content: 至无者故, HFL: ''}
+  - {type: voice, offset: 1995, length: 12, name: note, id: n54}
   - {type: substitution, offset: 1996, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: variant, offset: 2000, length: 9, content: 爲萬變之宗主也能隂, HFL: 陰}
   - {type: substitution, offset: 2000, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -757,6 +811,7 @@ markers:
       ', id: KR5c0049_krp_001-bkkkrnewl57}
   - {type: line-break, offset: 2071, content: '', id: KR5c0049_SBCK_001-2b13}
   - {type: punctuation, offset: 2071, content: (, id: KR5c0049_krp_001-bkkpn211}
+  - {type: voice, offset: 2071, length: 113, name: note, id: n55}
   - {type: substitution, offset: 2074, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 2079, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 2082, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -797,6 +852,7 @@ markers:
   - {type: substitution, offset: 2196, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   - {type: punctuation, offset: 2203, content: (, id: KR5c0049_krp_001-bkkpn217}
   - {type: variant, offset: 2203, length: 3, content: 攓拔出, HFL: ''}
+  - {type: voice, offset: 2203, length: 3, name: note, id: n56}
   - {type: punctuation, offset: 2205, content: /, id: KR5c0049_krp_001-bkkpn218}
   - {type: punctuation, offset: 2206, content: ), id: KR5c0049_krp_001-bkkpn219}
   - {type: 'kr:newline', offset: 2212, content: '
@@ -809,6 +865,7 @@ markers:
   - {type: variant, offset: 2223, length: 28, content: 甞死也俱涉變化之則予生而彼死推之至極之域則理旣无生亦又无, HFL: 嘗}
   - {type: substitution, offset: 2223, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16905}}
   - {type: punctuation, offset: 2226, content: (, id: KR5c0049_krp_001-bkkpn220}
+  - {type: voice, offset: 2226, length: 27, name: note, id: n57}
   - {type: 'kr:non-cjk', offset: 2231, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc23}
   - {type: substitution, offset: 2232, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 2239, content: /, id: KR5c0049_krp_001-bkkpn221}
@@ -823,10 +880,12 @@ markers:
   - {type: variant, offset: 2257, length: 1, content: 此, HFL: ''}
   - {type: punctuation, offset: 2261, content: (, id: KR5c0049_krp_001-bkkpn223}
   - {type: variant, offset: 2261, length: 25, content: 遭形則不能不養遇生則不能不歡此過誤之徒非理之實當也, HFL: ''}
+  - {type: voice, offset: 2261, length: 25, name: note, id: n58}
   - {type: punctuation, offset: 2274, content: /, id: KR5c0049_krp_001-bkkpn224}
   - {type: punctuation, offset: 2286, content: ), id: KR5c0049_krp_001-bkkpn225}
   - {type: punctuation, offset: 2289, content: (, id: KR5c0049_krp_001-bkkpn226}
   - {type: variant, offset: 2289, length: 17, content: 先問變化種數凡有幾條然後明之於下䵷, HFL: 若鼃}
+  - {type: voice, offset: 2289, length: 16, name: note, id: n59}
   - {type: punctuation, offset: 2292, content: /, id: KR5c0049_krp_001-bkkpn227}
   - {type: punctuation, offset: 2295, content: ), id: KR5c0049_krp_001-bkkpn228}
   - {type: 'kr:newline', offset: 2295, content: '
@@ -841,6 +900,7 @@ markers:
   - {type: substitution, offset: 2306, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2308, content: (, id: KR5c0049_krp_001-bkkpn232}
   - {type: variant, offset: 2308, length: 4, content: 事見墨子, HFL: ''}
+  - {type: voice, offset: 2308, length: 4, name: note, id: n60}
   - {type: punctuation, offset: 2310, content: /, id: KR5c0049_krp_001-bkkpn233}
   - {type: punctuation, offset: 2312, content: ), id: KR5c0049_krp_001-bkkpn234}
   - {type: substitution, offset: 2314, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -854,15 +914,18 @@ markers:
   - {type: line-break, offset: 2327, content: '', id: KR5c0049_SBCK_001-3a05}
   - {type: punctuation, offset: 2327, content: (, id: KR5c0049_krp_001-bkkpn235}
   - {type: variant, offset: 2327, length: 4, content: 衣猶覆蓋, HFL: ''}
+  - {type: voice, offset: 2327, length: 4, name: note, id: n61}
   - {type: punctuation, offset: 2329, content: /, id: KR5c0049_krp_001-bkkpn236}
   - {type: punctuation, offset: 2331, content: ), id: KR5c0049_krp_001-bkkpn237}
   - {type: punctuation, offset: 2335, content: (, id: KR5c0049_krp_001-bkkpn238}
   - {type: variant, offset: 2335, length: 6, content: 陵屯髙潔處也, HFL: ''}
+  - {type: voice, offset: 2335, length: 6, name: note, id: n62}
   - {type: punctuation, offset: 2338, content: /, id: KR5c0049_krp_001-bkkpn239}
   - {type: punctuation, offset: 2341, content: ), id: KR5c0049_krp_001-bkkpn240}
   - {type: substitution, offset: 2342, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2345, content: (, id: KR5c0049_krp_001-bkkpn241}
   - {type: variant, offset: 2345, length: 10, content: 此隨所生之處而變者也, HFL: ''}
+  - {type: voice, offset: 2345, length: 10, name: note, id: n63}
   - {type: punctuation, offset: 2350, content: /, id: KR5c0049_krp_001-bkkpn242}
   - {type: punctuation, offset: 2355, content: ), id: KR5c0049_krp_001-bkkpn243}
   - {type: substitution, offset: 2361, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -874,12 +937,14 @@ markers:
   - {type: line-break, offset: 2364, content: '', id: KR5c0049_SBCK_001-3a06}
   - {type: punctuation, offset: 2364, content: (, id: KR5c0049_krp_001-bkkpn244}
   - {type: variant, offset: 2364, length: 6, content: 此合而相生也, HFL: ''}
+  - {type: voice, offset: 2364, length: 6, name: note, id: n64}
   - {type: punctuation, offset: 2367, content: /, id: KR5c0049_krp_001-bkkpn245}
   - {type: punctuation, offset: 2370, content: ), id: KR5c0049_krp_001-bkkpn246}
   - {type: substitution, offset: 2374, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 2379, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2382, content: (, id: KR5c0049_krp_001-bkkpn247}
   - {type: variant, offset: 2382, length: 22, content: 根本也葉散也言烏足爲蠐螬之本其未散化爲胡蝶也, HFL: ''}
+  - {type: voice, offset: 2382, length: 22, name: note, id: n65}
   - {type: substitution, offset: 2391, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2393, content: /, id: KR5c0049_krp_001-bkkpn248}
   - {type: substitution, offset: 2400, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -890,6 +955,7 @@ markers:
   - {type: line-break, offset: 2405, content: '', id: KR5c0049_SBCK_001-3a07}
   - {type: variant, offset: 2407, length: 8, content: 也胥皆也言物皆化, HFL: ''}
   - {type: punctuation, offset: 2408, content: (, id: KR5c0049_krp_001-bkkpn250}
+  - {type: voice, offset: 2408, length: 8, name: note, id: n66}
   - {type: punctuation, offset: 2412, content: /, id: KR5c0049_krp_001-bkkpn251}
   - {type: punctuation, offset: 2416, content: ), id: KR5c0049_krp_001-bkkpn252}
   - {type: substitution, offset: 2418, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -898,6 +964,7 @@ markers:
   - {type: variant, offset: 2429, length: 1, content: 鴝, HFL: 𪀊}
   - {type: punctuation, offset: 2431, content: (, id: KR5c0049_krp_001-bkkpn253}
   - {type: variant, offset: 2431, length: 10, content: 此一形之內變異者也鴝, HFL: 𪀊}
+  - {type: voice, offset: 2431, length: 9, name: note, id: n67}
   - {type: punctuation, offset: 2436, content: /, id: KR5c0049_krp_001-bkkpn254}
   - {type: punctuation, offset: 2437, content: /, id: KR5c0049_krp_001-bkkpn255}
   - {type: punctuation, offset: 2440, content: ), id: KR5c0049_krp_001-bkkpn256}
@@ -907,6 +974,7 @@ markers:
   - {type: line-break, offset: 2440, content: '', id: KR5c0049_SBCK_001-3a08}
   - {type: punctuation, offset: 2444, content: (, id: KR5c0049_krp_001-bkkpn257}
   - {type: variant, offset: 2444, length: 4, content: 干日而死, HFL: ''}
+  - {type: voice, offset: 2444, length: 4, name: note, id: n68}
   - {type: punctuation, offset: 2446, content: /, id: KR5c0049_krp_001-bkkpn258}
   - {type: punctuation, offset: 2448, content: ), id: KR5c0049_krp_001-bkkpn259}
   - {type: substitution, offset: 2450, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -917,6 +985,7 @@ markers:
   - {type: punctuation, offset: 2466, content: (, id: KR5c0049_krp_001-bkkpn260}
   - {type: variant, offset: 2466, length: 6, content: 沬猶精華生起, HFL: ''}
   - {type: substitution, offset: 2466, original: 沬, replacement: 沫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19468}}
+  - {type: voice, offset: 2466, length: 6, name: note, id: n69}
   - {type: punctuation, offset: 2469, content: /, id: KR5c0049_krp_001-bkkpn261}
   - {type: punctuation, offset: 2472, content: ), id: KR5c0049_krp_001-bkkpn262}
   - {type: 'kr:newline', offset: 2472, content: '
@@ -934,6 +1003,7 @@ markers:
   - {type: line-break, offset: 2498, content: '', id: KR5c0049_SBCK_001-3a10}
   - {type: punctuation, offset: 2509, content: (, id: KR5c0049_krp_001-bkkpn263}
   - {type: variant, offset: 2509, length: 11, content: 此皆死而更生之一形者也, HFL: ''}
+  - {type: voice, offset: 2509, length: 11, name: note, id: n70}
   - {type: punctuation, offset: 2515, content: /, id: KR5c0049_krp_001-bkkpn264}
   - {type: punctuation, offset: 2520, content: ), id: KR5c0049_krp_001-bkkpn265}
   - {type: substitution, offset: 2523, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -948,6 +1018,7 @@ markers:
   - {type: substitution, offset: 2536, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 2539, length: 10, content: 也此皆一形之內自變化, HFL: ''}
   - {type: punctuation, offset: 2540, content: (, id: KR5c0049_krp_001-bkkpn266}
+  - {type: voice, offset: 2540, length: 10, name: note, id: n71}
   - {type: punctuation, offset: 2545, content: /, id: KR5c0049_krp_001-bkkpn267}
   - {type: punctuation, offset: 2550, content: ), id: KR5c0049_krp_001-bkkpn268}
   - {type: substitution, offset: 2552, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -978,6 +1049,7 @@ markers:
   - {type: substitution, offset: 2592, original: 猨, replacement: 猿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17626}}
   - {type: punctuation, offset: 2594, content: (, id: KR5c0049_krp_001-bkkpn269}
   - {type: variant, offset: 2594, length: 4, content: 羭牡羊也, HFL: ''}
+  - {type: voice, offset: 2594, length: 4, name: note, id: n72}
   - {type: punctuation, offset: 2596, content: /, id: KR5c0049_krp_001-bkkpn270}
   - {type: punctuation, offset: 2598, content: ), id: KR5c0049_krp_001-bkkpn271}
   - {type: 'kr:non-cjk', offset: 2599, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc27}
@@ -985,6 +1057,7 @@ markers:
   - {type: substitution, offset: 2600, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 2601, length: 13, content: 蟲此皆无所困感自然而變者也, HFL: 蠱}
   - {type: punctuation, offset: 2602, content: (, id: KR5c0049_krp_001-bkkpn272}
+  - {type: voice, offset: 2602, length: 12, name: note, id: n73}
   - {type: substitution, offset: 2604, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 2608, content: /, id: KR5c0049_krp_001-bkkpn273}
   - {type: punctuation, offset: 2614, content: ), id: KR5c0049_krp_001-bkkpn274}
@@ -995,6 +1068,7 @@ markers:
   - {type: page-break, offset: 2621, content: '', id: KR5c0049_HFL_000-005a, image: hfl/0348/0348-012.png}
   - {type: punctuation, offset: 2624, content: (, id: KR5c0049_krp_001-bkkpn275}
   - {type: variant, offset: 2624, length: 30, content: 亶音蟬山海經云亶爰之山有獸其狀如狸而有髮其名曰自爲牝牡相生也, HFL: ''}
+  - {type: voice, offset: 2624, length: 30, name: note, id: n74}
   - {type: punctuation, offset: 2640, content: /, id: KR5c0049_krp_001-bkkpn276}
   - {type: variant, offset: 2643, length: 28, content: 髮其名曰自爲牝牡相生也河澤之鳥視而生曰鶂此相視而生者也莊, ZTDZ: 憂色}
   - {type: 'kr:non-cjk', offset: 2647, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc28}
@@ -1010,6 +1084,7 @@ markers:
   - {type: line-break, offset: 2662, content: '', id: KR5c0049_SBCK_001-3b01}
   - {type: punctuation, offset: 2663, content: (, id: KR5c0049_krp_001-bkkpn278}
   - {type: variant, offset: 2663, length: 23, content: 此相視而生者也莊子曰白鶂相視眸子不運而風化之也, HFL: ''}
+  - {type: voice, offset: 2663, length: 23, name: note, id: n75}
   - {type: variant, offset: 2672, length: 7, content: 曰白鶂相視眸子, ZTDZ: 貢}
   - {type: punctuation, offset: 2675, content: /, id: KR5c0049_krp_001-bkkpn279}
   - {type: variant, offset: 2680, length: 168, content: 運而風化之也純雌其名大純雄其名稺蜂大鼈之也穉小也此无雌雄而自化上言蟲獸之理旣然下明人道亦有如此者也思士不妻而感思女不夫而孕大荒經曰有思幽之國思士不妻思女不夫精氣潜感不假交接而生子也此亦曰鶂之類也后稷生乎巨跡傳記云高辛氏之妃名姜原見大人跡好而履之如有人理感巳者遂孕因生后稷長而賢乃爲堯佐即周祖也伊尹生乎空桑傳記曰伊尹母居伊水之上旣孕夢有神, ZTDZ: 敢問出}
@@ -1021,6 +1096,7 @@ markers:
   - {type: substitution, offset: 2695, original: 稺, replacement: 稚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17612}}
   - {type: punctuation, offset: 2697, content: (, id: KR5c0049_krp_001-bkkpn281}
   - {type: variant, offset: 2697, length: 32, content: 大鼈之也穉小也此无雌雄而自化上言蟲獸之理旣然下明人道亦有如此者也, HFL: ''}
+  - {type: voice, offset: 2697, length: 32, name: note, id: n76}
   - {type: 'kr:non-cjk', offset: 2698, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc30}
   - {type: punctuation, offset: 2698, content: /, id: KR5c0049_krp_001-bkkpn282}
   - {type: 'kr:non-cjk', offset: 2698, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc31}
@@ -1039,6 +1115,7 @@ markers:
   - {type: punctuation, offset: 2729, content: ), id: KR5c0049_krp_001-bkkpn286}
   - {type: punctuation, offset: 2741, content: (, id: KR5c0049_krp_001-bkkpn287}
   - {type: variant, offset: 2741, length: 37, content: 大荒經曰有思幽之國思士不妻思女不夫精氣潜感不假交接而生子也此亦曰鶂之類也后, HFL: 後}
+  - {type: voice, offset: 2741, length: 36, name: note, id: n77}
   - {type: punctuation, offset: 2742, content: /, id: KR5c0049_krp_001-bkkpn288}
   - {type: punctuation, offset: 2743, content: ), id: KR5c0049_krp_001-bkkpn289}
   - {type: 'kr:newline', offset: 2743, content: '
@@ -1052,6 +1129,7 @@ markers:
   - {type: substitution, offset: 2782, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
   - {type: punctuation, offset: 2783, content: (, id: KR5c0049_krp_001-bkkpn293}
   - {type: variant, offset: 2783, length: 43, content: 傳記云高辛氏之妃名姜原見大人跡好而履之如有人理感巳者遂孕因生后稷長而賢乃爲堯佐即周祖也, HFL: ''}
+  - {type: voice, offset: 2783, length: 43, name: note, id: n78}
   - {type: punctuation, offset: 2790, content: /, id: KR5c0049_krp_001-bkkpn294}
   - {type: substitution, offset: 2792, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 2797, content: ), id: KR5c0049_krp_001-bkkpn295}
@@ -1066,6 +1144,7 @@ markers:
   - {type: punctuation, offset: 2826, content: ), id: KR5c0049_krp_001-bkkpn298}
   - {type: punctuation, offset: 2832, content: (, id: KR5c0049_krp_001-bkkpn299}
   - {type: variant, offset: 2832, length: 90, content: 傳記曰伊尹母居伊水之上旣孕夢有神告之曰臼水出而東走无顧明日視曰出木告其鄰東走十里而顧其邑盡爲水身因化爲空桑有華氏女子採桑得嬰皃于空桑之中故命之日伊尹而獻其君令庖人養之長而賢爲殷湯相, HFL: ''}
+  - {type: voice, offset: 2832, length: 90, name: note, id: n79}
   - {type: punctuation, offset: 2841, content: /, id: KR5c0049_krp_001-bkkpn300}
   - {type: substitution, offset: 2843, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: variant, offset: 2849, length: 1083, content: 之曰臼水出而東走无顧明日視曰出木告其鄰東走十里而顧其邑盡爲水身因化爲空桑有華氏女子採桑得嬰皃于空桑之中故命之日伊尹而獻其君令庖人養之長而賢爲殷湯相厥昭生乎濕此因蒸潤而生醯雞生乎酒此因酸氣而生羊奚比乎不筍此異而相親比也久竹生青寧因於林藪而生靑寧生程自從㡭至於程皆生生之物虵鳥蟲獸之屬言其變化无常或以形而變或死而更生終始相因无窮巳也程生馬馬生人人久入於機萬物皆出於機皆入於機夫生死變化胡可測哉生於此者或死於彼死於彼者或生於此而形生之生未嘗暫无是以聖人知生不常存死不永滅一氣之變所適萬形萬形萬化而不化者存歸於不化故謂之機機者羣有之始動之所宗故出无入有散有反无靡不由之也黃帝書曰形動不生形而生影聲動不生聲而生響夫有形必有影有聲必有響此自然而並生俱出而俱沒豈有相資前後之差哉郭象注莊子論之詳矣而丗之談者以形動而影隨聲出而響應聖人則之以爲喻明物動則失本靜則歸根不復曲通影響之義也无動不生无而生有有之爲有恃无以生言生必由无而无不生有此運通之功必輟於无故生動之稱因事而立耳形必終者也天地終乎與我偕終料巨細計脩短則與我殊矣㑹歸於終理固无差也終進乎不知也進當爲盡此書盡字例多作進也聚則成形散則爲終此丗之所謂終始也然則聚者以形實爲始以離散爲終散者以虚漠爲始以實爲終故迭相與爲終始而理實无終无始者也道終乎本无始進乎本不久久當爲有无始故不終无有故不盡有生則復於不生有形則復於无形生者反終形者反虚自然之數也不生者此不生者先有其生然後之於死滅非本不生者也本不生者自无生无滅无形者此无刑亦先有其形然後之於離散非本无形者也本无形者初自无聚无散者也夫生生物者不生形形物者无刑故能生形萬物於我體无變今謂旣生旣形而復反於无生无形者此故存亡之徃復爾非始終之不變者也生者理之必終者也終者不得不終亦如生者之不得不生生者不生而自生故雖生而不知所以生不知所以生則生不可絶不知所以死則死不可禦也而欲其生盡其終惑於數也盡亡也精神者天之分骨骸者地之分屬天淸而散屬地濁而聚精神離形各歸其眞天分歸天地分歸地各反其夲故謂之歸也歸其眞宅眞宅太虚之域黃帝曰精神入其門骨骸反其根我尚何存何生之无形何形之无氣何氣之无靈然則心智形骸隂陽之一體偏積之一氣及其離形歸根則反其眞宅而我无物焉人自生至終大化有四其閒遷易无時蹔停四者蓋舉大較而言者也嬰孩也少壯也老耄也死亡也其在嬰孩氣專志一和之至也物不傷焉德莫加焉老子曰含德之厚此於赤子其在少壯則血氣飄溢欲慮充起物所攻焉德故衰焉處力競之地物切不與也其在老耄則欲慮柔焉禮將休焉物莫先焉休息也巳无競心則物不與爭雖未及嬰孩之全方於少壯閒矣其在死亡也則之於息焉反其極矣孔子遊於太山見榮啓期行乎郕之野鹿裘帶索鼓, ZTDZ: 顔回顔回援}
@@ -1091,10 +1170,12 @@ markers:
   - {type: punctuation, offset: 2922, content: ), id: KR5c0049_krp_001-bkkpn307}
   - {type: punctuation, offset: 2927, content: (, id: KR5c0049_krp_001-bkkpn308}
   - {type: variant, offset: 2927, length: 6, content: 此因蒸潤而生, HFL: ''}
+  - {type: voice, offset: 2927, length: 6, name: note, id: n80}
   - {type: punctuation, offset: 2930, content: /, id: KR5c0049_krp_001-bkkpn309}
   - {type: punctuation, offset: 2933, content: ), id: KR5c0049_krp_001-bkkpn310}
   - {type: punctuation, offset: 2938, content: (, id: KR5c0049_krp_001-bkkpn311}
   - {type: variant, offset: 2938, length: 6, content: 此因酸氣而生, HFL: ''}
+  - {type: voice, offset: 2938, length: 6, name: note, id: n81}
   - {type: punctuation, offset: 2941, content: /, id: KR5c0049_krp_001-bkkpn312}
   - {type: punctuation, offset: 2944, content: ), id: KR5c0049_krp_001-bkkpn313}
   - {type: 'kr:newline', offset: 2948, content: '
@@ -1103,15 +1184,18 @@ markers:
   - {type: line-break, offset: 2948, content: '', id: KR5c0049_SBCK_001-3b07}
   - {type: punctuation, offset: 2950, content: (, id: KR5c0049_krp_001-bkkpn314}
   - {type: variant, offset: 2950, length: 8, content: 此異而相親比也久, HFL: 乆}
+  - {type: voice, offset: 2950, length: 7, name: note, id: n82}
   - {type: 'kr:non-cjk', offset: 2952, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc33}
   - {type: punctuation, offset: 2953, content: /, id: KR5c0049_krp_001-bkkpn315}
   - {type: punctuation, offset: 2957, content: ), id: KR5c0049_krp_001-bkkpn316}
   - {type: punctuation, offset: 2962, content: (, id: KR5c0049_krp_001-bkkpn317}
   - {type: variant, offset: 2962, length: 7, content: 因於林藪而生靑, HFL: 青}
+  - {type: voice, offset: 2962, length: 6, name: note, id: n83}
   - {type: punctuation, offset: 2965, content: /, id: KR5c0049_krp_001-bkkpn318}
   - {type: punctuation, offset: 2968, content: ), id: KR5c0049_krp_001-bkkpn319}
   - {type: punctuation, offset: 2972, content: (, id: KR5c0049_krp_001-bkkpn320}
   - {type: variant, offset: 2972, length: 41, content: 自從㡭至於程皆生生之物虵鳥蟲獸之屬言其變化无常或以形而變或死而更生終始相因无窮巳也, HFL: ''}
+  - {type: voice, offset: 2972, length: 41, name: note, id: n84}
   - {type: substitution, offset: 2974, original: 㡭, replacement: 繼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4141}}
   - {type: punctuation, offset: 2981, content: /, id: KR5c0049_krp_001-bkkpn321}
   - {type: substitution, offset: 2983, original: 虵, replacement: 蛇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17300}}
@@ -1132,6 +1216,7 @@ markers:
   - {type: line-break, offset: 3029, content: '', id: KR5c0049_SBCK_001-3b09}
   - {type: punctuation, offset: 3034, content: (, id: KR5c0049_krp_001-bkkpn326}
   - {type: variant, offset: 3034, length: 97, content: 夫生死變化胡可測哉生於此者或死於彼死於彼者或生於此而形生之生未嘗暫无是以聖人知生不常存死不永滅一氣之變所適萬形萬形萬化而不化者存歸於不化故謂之機機者羣有之始動之所宗故出无入有散有反无靡不由之也黃, HFL: 黄}
+  - {type: voice, offset: 3034, length: 96, name: note, id: n85}
   - {type: punctuation, offset: 3058, content: /, id: KR5c0049_krp_001-bkkpn327}
   - {type: substitution, offset: 3067, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 3082, content: ), id: KR5c0049_krp_001-bkkpn328}
@@ -1150,6 +1235,7 @@ markers:
   - {type: line-break, offset: 3135, content: '', id: KR5c0049_SBCK_001-3b11}
   - {type: punctuation, offset: 3150, content: (, id: KR5c0049_krp_001-bkkpn332}
   - {type: variant, offset: 3150, length: 83, content: 夫有形必有影有聲必有響此自然而並生俱出而俱沒豈有相資前後之差哉郭象注莊子論之詳矣而丗之談者以形動而影隨聲出而響應聖人則之以爲喻明物動則失本靜則歸根不復曲通影響之義也无, HFL: 無}
+  - {type: voice, offset: 3150, length: 82, name: note, id: n86}
   - {type: punctuation, offset: 3161, content: /, id: KR5c0049_krp_001-bkkpn333}
   - {type: punctuation, offset: 3172, content: ), id: KR5c0049_krp_001-bkkpn334}
   - {type: 'kr:newline', offset: 3172, content: '
@@ -1169,6 +1255,7 @@ markers:
   - {type: substitution, offset: 3236, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 3240, content: (, id: KR5c0049_krp_001-bkkpn338}
   - {type: variant, offset: 3240, length: 37, content: 有之爲有恃无以生言生必由无而无不生有此運通之功必輟於无故生動之稱因事而立耳, HFL: ''}
+  - {type: voice, offset: 3240, length: 37, name: note, id: n87}
   - {type: substitution, offset: 3242, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 3245, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 3252, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -1182,6 +1269,7 @@ markers:
   - {type: line-break, offset: 3278, content: '', id: KR5c0049_SBCK_001-3b14}
   - {type: punctuation, offset: 3290, content: (, id: KR5c0049_krp_001-bkkpn341}
   - {type: variant, offset: 3290, length: 20, content: 料巨細計脩短則與我殊矣㑹歸於終理固无差也, HFL: ''}
+  - {type: voice, offset: 3290, length: 20, name: note, id: n88}
   - {type: substitution, offset: 3294, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 3300, content: /, id: KR5c0049_krp_001-bkkpn342}
   - {type: substitution, offset: 3301, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
@@ -1197,6 +1285,7 @@ markers:
   - {type: line-break, offset: 3315, content: '', id: KR5c0049_SBCK_001-4a01}
   - {type: punctuation, offset: 3316, content: (, id: KR5c0049_krp_001-bkkpn344}
   - {type: variant, offset: 3316, length: 70, content: 進當爲盡此書盡字例多作進也聚則成形散則爲終此丗之所謂終始也然則聚者以形實爲始以離散爲終散者以虚漠爲始以實爲終故迭相與爲終始而理實无終无始者也, HFL: ''}
+  - {type: voice, offset: 3316, length: 70, name: note, id: n89}
   - {type: substitution, offset: 3318, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 3335, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 3345, content: /, id: KR5c0049_krp_001-bkkpn345}
@@ -1221,6 +1310,7 @@ markers:
   - {type: substitution, offset: 3390, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: variant, offset: 3396, length: 15, content: 久久當爲有无始故不終无有故不盡, HFL: 乆}
   - {type: punctuation, offset: 3397, content: (, id: KR5c0049_krp_001-bkkpn350}
+  - {type: voice, offset: 3397, length: 14, name: note, id: n90}
   - {type: substitution, offset: 3399, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 3401, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 3404, content: /, id: KR5c0049_krp_001-bkkpn351}
@@ -1235,11 +1325,13 @@ markers:
   - {type: substitution, offset: 3423, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 3425, content: (, id: KR5c0049_krp_001-bkkpn353}
   - {type: variant, offset: 3425, length: 13, content: 生者反終形者反虚自然之數也, HFL: ''}
+  - {type: voice, offset: 3425, length: 13, name: note, id: n91}
   - {type: punctuation, offset: 3432, content: /, id: KR5c0049_krp_001-bkkpn354}
   - {type: substitution, offset: 3432, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 3438, content: ), id: KR5c0049_krp_001-bkkpn355}
   - {type: punctuation, offset: 3441, content: (, id: KR5c0049_krp_001-bkkpn356}
   - {type: variant, offset: 3441, length: 14, content: 此不生者先有其生然後之於死滅, HFL: ''}
+  - {type: voice, offset: 3441, length: 14, name: note, id: n92}
   - {type: punctuation, offset: 3446, content: /, id: KR5c0049_krp_001-bkkpn357}
   - {type: punctuation, offset: 3451, content: ), id: KR5c0049_krp_001-bkkpn358}
   - {type: 'kr:newline', offset: 3451, content: '
@@ -1251,6 +1343,7 @@ markers:
   - {type: punctuation, offset: 3455, content: ), id: KR5c0049_krp_001-bkkpn361}
   - {type: variant, offset: 3456, length: 1, content: 本, HFL: ''}
   - {type: punctuation, offset: 3461, content: (, id: KR5c0049_krp_001-bkkpn362}
+  - {type: voice, offset: 3461, length: 9, name: note, id: n93}
   - {type: variant, offset: 3462, length: 9, content: 不生者自无生无滅无, HFL: 無}
   - {type: 'kr:non-cjk', offset: 3465, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc35}
   - {type: punctuation, offset: 3465, content: /, id: KR5c0049_krp_001-bkkpn363}
@@ -1260,6 +1353,7 @@ markers:
   - {type: substitution, offset: 3470, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 3473, content: (, id: KR5c0049_krp_001-bkkpn365}
   - {type: variant, offset: 3473, length: 14, content: 此无刑亦先有其形然後之於離散, HFL: ''}
+  - {type: voice, offset: 3473, length: 14, name: note, id: n94}
   - {type: substitution, offset: 3474, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 3480, content: /, id: KR5c0049_krp_001-bkkpn366}
   - {type: punctuation, offset: 3487, content: ), id: KR5c0049_krp_001-bkkpn367}
@@ -1271,6 +1365,7 @@ markers:
   - {type: line-break, offset: 3491, content: '', id: KR5c0049_SBCK_001-4a05}
   - {type: variant, offset: 3491, length: 67, content: 者也本无形者初自无聚无散者也夫生生物者不生形形物者无刑故能生形萬物於我體无變今謂旣生旣形而復反於无生无形者此故存亡之徃復爾非始終之不變, HFL: ''}
   - {type: punctuation, offset: 3493, content: (, id: KR5c0049_krp_001-bkkpn368}
+  - {type: voice, offset: 3493, length: 67, name: note, id: n95}
   - {type: substitution, offset: 3494, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 3499, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 3501, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -1296,6 +1391,7 @@ markers:
   - {type: line-break, offset: 3581, content: '', id: KR5c0049_SBCK_001-4a07}
   - {type: punctuation, offset: 3583, content: (, id: KR5c0049_krp_001-bkkpn374}
   - {type: variant, offset: 3583, length: 37, content: 生者不生而自生故雖生而不知所以生不知所以生則生不可絶不知所以死則死不可禦也, HFL: ''}
+  - {type: voice, offset: 3583, length: 37, name: note, id: n96}
   - {type: punctuation, offset: 3602, content: /, id: KR5c0049_krp_001-bkkpn375}
   - {type: punctuation, offset: 3620, content: ), id: KR5c0049_krp_001-bkkpn376}
   - {type: 'kr:non-cjk', offset: 3622, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc36}
@@ -1306,6 +1402,7 @@ markers:
   - {type: line-break, offset: 3627, content: '', id: KR5c0049_SBCK_001-4a08}
   - {type: variant, offset: 3630, length: 3, content: 也盡亡, HFL: ''}
   - {type: punctuation, offset: 3631, content: (, id: KR5c0049_krp_001-bkkpn377}
+  - {type: voice, offset: 3631, length: 3, name: note, id: n97}
   - {type: punctuation, offset: 3633, content: /, id: KR5c0049_krp_001-bkkpn378}
   - {type: punctuation, offset: 3634, content: ), id: KR5c0049_krp_001-bkkpn379}
   - {type: variant, offset: 3648, length: 1, content: 淸, HFL: 清}
@@ -1316,6 +1413,7 @@ markers:
   - {type: substitution, offset: 3663, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 3664, content: (, id: KR5c0049_krp_001-bkkpn380}
   - {type: variant, offset: 3664, length: 12, content: 天分歸天地分歸地各反其夲, HFL: ''}
+  - {type: voice, offset: 3664, length: 12, name: note, id: n98}
   - {type: punctuation, offset: 3670, content: /, id: KR5c0049_krp_001-bkkpn381}
   - {type: punctuation, offset: 3676, content: ), id: KR5c0049_krp_001-bkkpn382}
   - {type: 'kr:non-cjk', offset: 3679, content: ⬤⬤, id: KR5c0049_krp_001-bkkkrnonc37}
@@ -1328,11 +1426,13 @@ markers:
   - {type: punctuation, offset: 3685, content: (, id: KR5c0049_krp_001-bkkpn383}
   - {type: variant, offset: 3685, length: 7, content: 眞宅太虚之域黃, HFL: 黄}
   - {type: substitution, offset: 3685, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
+  - {type: voice, offset: 3685, length: 6, name: note, id: n99}
   - {type: punctuation, offset: 3688, content: /, id: KR5c0049_krp_001-bkkpn384}
   - {type: substitution, offset: 3688, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 3691, content: ), id: KR5c0049_krp_001-bkkpn385}
   - {type: punctuation, offset: 3708, content: (, id: KR5c0049_krp_001-bkkpn386}
   - {type: variant, offset: 3708, length: 47, content: 何生之无形何形之无氣何氣之无靈然則心智形骸隂陽之一體偏積之一氣及其離形歸根則反其眞宅而我无物焉, HFL: ''}
+  - {type: voice, offset: 3708, length: 47, name: note, id: n100}
   - {type: substitution, offset: 3711, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 3714, content: /, id: KR5c0049_krp_001-bkkpn387}
   - {type: substitution, offset: 3716, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -1349,6 +1449,7 @@ markers:
   - {type: punctuation, offset: 3755, content: ), id: KR5c0049_krp_001-bkkpn391}
   - {type: punctuation, offset: 3764, content: (, id: KR5c0049_krp_001-bkkpn392}
   - {type: variant, offset: 3764, length: 18, content: 其閒遷易无時蹔停四者蓋舉大較而言者也, HFL: ''}
+  - {type: voice, offset: 3764, length: 18, name: note, id: n101}
   - {type: substitution, offset: 3765, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 3767, content: /, id: KR5c0049_krp_001-bkkpn393}
   - {type: substitution, offset: 3768, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -1367,6 +1468,7 @@ markers:
   - {type: line-break, offset: 3803, content: '', id: KR5c0049_SBCK_001-4a13}
   - {type: punctuation, offset: 3814, content: (, id: KR5c0049_krp_001-bkkpn398}
   - {type: variant, offset: 3814, length: 11, content: 老子曰含德之厚此於赤子, HFL: ''}
+  - {type: voice, offset: 3814, length: 11, name: note, id: n102}
   - {type: punctuation, offset: 3820, content: /, id: KR5c0049_krp_001-bkkpn399}
   - {type: punctuation, offset: 3825, content: ), id: KR5c0049_krp_001-bkkpn400}
   - {type: 'kr:newline', offset: 3835, content: '
@@ -1376,6 +1478,7 @@ markers:
   - {type: page-break, offset: 3839, content: '', id: KR5c0049_HFL_000-006a, image: hfl/0348/0348-014.png}
   - {type: punctuation, offset: 3846, content: (, id: KR5c0049_krp_001-bkkpn401}
   - {type: variant, offset: 3846, length: 10, content: 處力競之地物切不與也, HFL: ''}
+  - {type: voice, offset: 3846, length: 10, name: note, id: n103}
   - {type: punctuation, offset: 3851, content: /, id: KR5c0049_krp_001-bkkpn402}
   - {type: punctuation, offset: 3856, content: ), id: KR5c0049_krp_001-bkkpn403}
   - {type: variant, offset: 3865, length: 1, content: 禮, HFL: 體}
@@ -1389,6 +1492,7 @@ markers:
   - {type: line-break, offset: 3866, content: '', id: KR5c0049_SBCK_001-4b01}
   - {type: punctuation, offset: 3873, content: (, id: KR5c0049_krp_001-bkkpn404}
   - {type: variant, offset: 3873, length: 12, content: 休息也巳无競心則物不與爭, HFL: ''}
+  - {type: voice, offset: 3873, length: 12, name: note, id: n104}
   - {type: substitution, offset: 3877, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 3879, content: /, id: KR5c0049_krp_001-bkkpn405}
   - {type: punctuation, offset: 3885, content: ), id: KR5c0049_krp_001-bkkpn406}
@@ -1415,6 +1519,7 @@ markers:
   - {type: substitution, offset: 3963, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 3969, content: (, id: KR5c0049_krp_001-bkkpn407}
   - {type: variant, offset: 3969, length: 53, content: 推此而言明人之神氣與衆生不殊所適者異故形貌不一是以榮啓期深測伏之縁洞識幽顯之驗故忻遇人形兼得男貴豈孟浪而言, HFL: ''}
+  - {type: voice, offset: 3969, length: 53, name: note, id: n105}
   - {type: punctuation, offset: 3977, content: /, id: KR5c0049_krp_001-bkkpn408}
   - {type: punctuation, offset: 3985, content: ), id: KR5c0049_krp_001-bkkpn409}
   - {type: 'kr:newline', offset: 3985, content: '
@@ -1437,6 +1542,7 @@ markers:
   - {type: substitution, offset: 4038, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4045, content: (, id: KR5c0049_krp_001-bkkpn413}
   - {type: variant, offset: 4045, length: 16, content: 人之將生男女亦无定分故復喜得男身, HFL: ''}
+  - {type: voice, offset: 4045, length: 16, name: note, id: n106}
   - {type: substitution, offset: 4052, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 4053, content: /, id: KR5c0049_krp_001-bkkpn414}
   - {type: punctuation, offset: 4061, content: ), id: KR5c0049_krp_001-bkkpn415}
@@ -1459,6 +1565,7 @@ markers:
   - {type: punctuation, offset: 4115, content: (, id: KR5c0049_krp_001-bkkpn416}
   - {type: variant, offset: 4115, length: 15, content: 不能都忘樂善其能摇理自寛慰者耳, HFL: ''}
   - {type: variant, offset: 4115, length: 4, content: 不能都忘, ZTDZ: 汝徒知}
+  - {type: voice, offset: 4115, length: 15, name: note, id: n107}
   - {type: punctuation, offset: 4119, content: /, id: KR5c0049_krp_001-bkkpn417}
   - {type: 'kr:non-cjk', offset: 4119, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc39}
   - {type: variant, offset: 4120, length: 1, content: 善, ZTDZ: 天知命之無憂未知樂天知命有憂之大也今告若}
@@ -1478,6 +1585,7 @@ markers:
   - {type: variant, offset: 4134, length: 11, content: 歳書傳无聞蓋古之隱者也, HFL: 歲}
   - {type: substitution, offset: 4134, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   - {type: punctuation, offset: 4135, content: (, id: KR5c0049_krp_001-bkkpn422}
+  - {type: voice, offset: 4135, length: 10, name: note, id: n108}
   - {type: substitution, offset: 4137, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 4140, content: /, id: KR5c0049_krp_001-bkkpn423}
   - {type: variant, offset: 4142, length: 12, content: 隱者也底春被裘㡳當拾遺穗, ZTDZ: 非我亡變亂}
@@ -1485,6 +1593,7 @@ markers:
   - {type: punctuation, offset: 4149, content: (, id: KR5c0049_krp_001-bkkpn425}
   - {type: variant, offset: 4149, length: 2, content: 㡳當, HFL: ''}
   - {type: substitution, offset: 4149, original: 㡳, replacement: 底, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19746}}
+  - {type: voice, offset: 4149, length: 2, name: note, id: n109}
   - {type: punctuation, offset: 4150, content: /, id: KR5c0049_krp_001-bkkpn426}
   - {type: punctuation, offset: 4151, content: ), id: KR5c0049_krp_001-bkkpn427}
   - {type: variant, offset: 4155, length: 10, content: 故畦收刈後田中棄榖捃, ZTDZ: 心慮爾}
@@ -1494,6 +1603,7 @@ markers:
   - {type: line-break, offset: 4157, content: '', id: KR5c0049_SBCK_001-4b10}
   - {type: punctuation, offset: 4157, content: (, id: KR5c0049_krp_001-bkkpn428}
   - {type: variant, offset: 4157, length: 10, content: 收刈後田中棄榖捃之也, HFL: ''}
+  - {type: voice, offset: 4157, length: 10, name: note, id: n110}
   - {type: punctuation, offset: 4162, content: /, id: KR5c0049_krp_001-bkkpn429}
   - {type: variant, offset: 4166, length: 199, content: 也並歌並進孔子適衛望之於野顧謂弟子曰彼叟可與言者試往訊之子貢請行逆之壠端面之而歎曰先生曽不悔平而行歌拾穗林行不留歌不輟子貢叩之不巳乃仰而應曰吾何悔邪子貢曰先生少不勤行長不競時老無妻子死期將至亦有何樂而拾穗行歌乎林曰吾之所以爲樂人皆有之而反以爲憂我所以爲樂者人人皆同伹未能觸事而夷故无蹔歡少不勤行長不競時故能壽此不勤行則無名譽不競時則無利欲二者不存於胷中則百年之夀不祈而自獲也老无妻子死期將至故能樂此, ZTDZ: ''}
   - {type: punctuation, offset: 4167, content: ), id: KR5c0049_krp_001-bkkpn430}
@@ -1526,6 +1636,7 @@ markers:
   - {type: substitution, offset: 4286, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4288, content: (, id: KR5c0049_krp_001-bkkpn431}
   - {type: variant, offset: 4288, length: 21, content: 我所以爲樂者人人皆同伹未能觸事而夷故无蹔歡, HFL: ''}
+  - {type: voice, offset: 4288, length: 21, name: note, id: n111}
   - {type: punctuation, offset: 4290, content: /, id: KR5c0049_krp_001-bkkpn432}
   - {type: substitution, offset: 4291, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4292, content: ), id: KR5c0049_krp_001-bkkpn433}
@@ -1546,6 +1657,7 @@ markers:
   - {type: variant, offset: 4320, length: 0, content: '', HFL: 若}
   - {type: punctuation, offset: 4321, content: (, id: KR5c0049_krp_001-bkkpn437}
   - {type: variant, offset: 4321, length: 4, content: 不勤行則, HFL: 老}
+  - {type: voice, offset: 4321, length: 32, name: note, id: n112}
   - {type: variant, offset: 4326, length: 29, content: 名譽不競時則無利欲二者不存於胷中則百年之夀不祈而自獲也老无, HFL: ''}
   - {type: punctuation, offset: 4327, content: /, id: KR5c0049_krp_001-bkkpn438}
   - {type: punctuation, offset: 4333, content: ), id: KR5c0049_krp_001-bkkpn439}
@@ -1563,6 +1675,7 @@ markers:
   - {type: variant, offset: 4364, length: 0, content: '', HFL: 若}
   - {type: punctuation, offset: 4365, content: (, id: KR5c0049_krp_001-bkkpn443}
   - {type: variant, offset: 4365, length: 10, content: 所謂樂天知命故云憂也, HFL: ''}
+  - {type: voice, offset: 4365, length: 10, name: note, id: n113}
   - {type: punctuation, offset: 4369, content: /, id: KR5c0049_krp_001-bkkpn444}
   - {type: variant, offset: 4371, length: 1, content: 故, ZTDZ: 之}
   - {type: variant, offset: 4372, length: 1, content: 云, ZTDZ: 無}
@@ -1598,6 +1711,7 @@ markers:
   - {type: variant, offset: 4439, length: 172, content: 吾今之死不愈昔之生乎尋此旨則存亡往復无窮已也子貢聞之不喻其意還以告夫子夫子曰吾知其可與言果然然彼得之而不盡者也卒然聞林之言盛以爲巳造極矣而夫子方謂未盡夫盡者无所不盡亦无所盡然後盡理都全耳今方對无於有去彼取此則不得不覺内外之異然所不盡者亦少許處耳若夫萬變一彼我兩忘即理自夷而實无所遣夫内逆外同於人羣者豈有盡與不盡者乎子貢倦於學告仲尼曰願有所息學者, ZTDZ: ''}
   - {type: punctuation, offset: 4449, content: (, id: KR5c0049_krp_001-bkkpn449}
   - {type: variant, offset: 4449, length: 12, content: 尋此旨則存亡往復无窮已也, HFL: ''}
+  - {type: voice, offset: 4449, length: 12, name: note, id: n114}
   - {type: punctuation, offset: 4450, content: /, id: KR5c0049_krp_001-bkkpn450}
   - {type: punctuation, offset: 4451, content: ), id: KR5c0049_krp_001-bkkpn451}
   - {type: 'kr:newline', offset: 4451, content: '
@@ -1614,6 +1728,7 @@ markers:
   - {type: line-break, offset: 4483, content: '', id: KR5c0049_SBCK_001-5a07}
   - {type: punctuation, offset: 4494, content: (, id: KR5c0049_krp_001-bkkpn455}
   - {type: variant, offset: 4494, length: 102, content: 卒然聞林之言盛以爲巳造極矣而夫子方謂未盡夫盡者无所不盡亦无所盡然後盡理都全耳今方對无於有去彼取此則不得不覺内外之異然所不盡者亦少許處耳若夫萬變一彼我兩忘即理自夷而實无所遣夫内逆外同於人羣者豈有盡與不盡者乎, HFL: ''}
+  - {type: voice, offset: 4494, length: 102, name: note, id: n115}
   - {type: 'kr:non-cjk', offset: 4498, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc47}
   - {type: substitution, offset: 4502, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4510, content: /, id: KR5c0049_krp_001-bkkpn456}
@@ -1642,6 +1757,7 @@ markers:
   - {type: punctuation, offset: 4596, content: ), id: KR5c0049_krp_001-bkkpn463}
   - {type: punctuation, offset: 4609, content: (, id: KR5c0049_krp_001-bkkpn464}
   - {type: variant, offset: 4609, length: 19, content: 學者所以木復其乃至於猒倦則自然之理虧矣, HFL: ''}
+  - {type: voice, offset: 4609, length: 19, name: note, id: n116}
   - {type: variant, offset: 4613, length: 11, content: 木復其乃至於猒倦則自然, ZTDZ: 革}
   - {type: 'kr:non-cjk', offset: 4616, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc50}
   - {type: punctuation, offset: 4616, content: /, id: KR5c0049_krp_001-bkkpn465}
@@ -1658,6 +1774,7 @@ markers:
   - {type: substitution, offset: 4632, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 4635, content: (, id: KR5c0049_krp_001-bkkpn470}
   - {type: variant, offset: 4635, length: 18, content: 勞知慮役支體此生者之事莊子曰生爲徭役, HFL: ''}
+  - {type: voice, offset: 4635, length: 18, name: note, id: n117}
   - {type: variant, offset: 4642, length: 82, content: 生者之事莊子曰生爲徭役子貢曰然則賜息无所乎仲尼曰有焉耳望其壙睪如也宰如也墳如也鬲如也則知所息矣見其墳壤鬲翼開知息七有所莊子曰死爲休息也子貢曰大哉死乎君子息焉小人伏焉, ZTDZ: ''}
   - {type: punctuation, offset: 4644, content: /, id: KR5c0049_krp_001-bkkpn471}
   - {type: substitution, offset: 4650, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -1675,11 +1792,13 @@ markers:
   - {type: line-break, offset: 4688, content: '', id: KR5c0049_SBCK_001-5a12}
   - {type: punctuation, offset: 4689, content: (, id: KR5c0049_krp_001-bkkpn473}
   - {type: variant, offset: 4689, length: 20, content: 見其墳壤鬲翼開知息七有所莊子曰死爲休息也, HFL: ''}
+  - {type: voice, offset: 4689, length: 20, name: note, id: n118}
   - {type: punctuation, offset: 4699, content: /, id: KR5c0049_krp_001-bkkpn474}
   - {type: substitution, offset: 4705, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4709, content: ), id: KR5c0049_krp_001-bkkpn475}
   - {type: punctuation, offset: 4724, content: (, id: KR5c0049_krp_001-bkkpn476}
   - {type: variant, offset: 4724, length: 29, content: 樂天知命秦然以待終君子之所以息去離憂昧然而死小人之所以伏也, HFL: ''}
+  - {type: voice, offset: 4724, length: 29, name: note, id: n119}
   - {type: punctuation, offset: 4725, content: /, id: KR5c0049_krp_001-bkkpn477}
   - {type: punctuation, offset: 4726, content: ), id: KR5c0049_krp_001-bkkpn478}
   - {type: 'kr:newline', offset: 4726, content: '
@@ -1697,6 +1816,7 @@ markers:
   - {type: line-break, offset: 4767, content: '', id: KR5c0049_SBCK_001-5a14}
   - {type: punctuation, offset: 4791, content: (, id: KR5c0049_krp_001-bkkpn482}
   - {type: variant, offset: 4791, length: 22, content: 莊子日大塊載我以形勞我以生佚我以老息我以死耳, HFL: ''}
+  - {type: voice, offset: 4791, length: 22, name: note, id: n120}
   - {type: punctuation, offset: 4793, content: /, id: KR5c0049_krp_001-bkkpn483}
   - {type: punctuation, offset: 4795, content: ), id: KR5c0049_krp_001-bkkpn484}
   - {type: 'kr:newline', offset: 4795, content: '
@@ -1712,6 +1832,7 @@ markers:
   - {type: punctuation, offset: 4813, content: ), id: KR5c0049_krp_001-bkkpn487}
   - {type: variant, offset: 4821, length: 23, content: 死也生死古今所同而蜀善古之无者明古人不樂生而惡, HFL: ''}
   - {type: punctuation, offset: 4823, content: (, id: KR5c0049_krp_001-bkkpn488}
+  - {type: voice, offset: 4823, length: 23, name: note, id: n121}
   - {type: punctuation, offset: 4832, content: /, id: KR5c0049_krp_001-bkkpn489}
   - {type: substitution, offset: 4834, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 4841, content: ), id: KR5c0049_krp_001-bkkpn490}
@@ -1725,6 +1846,7 @@ markers:
   - {type: punctuation, offset: 4855, content: (, id: KR5c0049_krp_001-bkkpn494}
   - {type: variant, offset: 4855, length: 36, content: 脩身愼行懷兢懼此仁者之所憂貪欲從肆當无厭足此不仁者之所苦唯死而後休息伏之, HFL: ''}
   - {type: substitution, offset: 4855, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
+  - {type: voice, offset: 4855, length: 36, name: note, id: n122}
   - {type: 'kr:non-cjk', offset: 4859, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc52}
   - {type: variant, offset: 4868, length: 11, content: 貪欲從肆當无厭足此不仁, ZTDZ: 雖然吾得之矣夫樂而知}
   - {type: punctuation, offset: 4870, content: /, id: KR5c0049_krp_001-bkkpn495}
@@ -1745,6 +1867,7 @@ markers:
   - {type: variant, offset: 4891, length: 8, content: 死也者德之徼也德, ZTDZ: 弟子有亢倉子}
   - {type: punctuation, offset: 4898, content: (, id: KR5c0049_krp_001-bkkpn500}
   - {type: variant, offset: 4898, length: 14, content: 德者得也徼者歸也言各得其所歸, HFL: ''}
+  - {type: voice, offset: 4898, length: 14, name: note, id: n123}
   - {type: variant, offset: 4901, length: 0, content: '', ZTDZ: 聃之道能以耳視而目聽魯侯聞之大驚使上卿厚禮而致之亢倉子應聘而至魯侯卑辭請問之亢倉子曰傳之者妄我能視聽不用耳目不能易耳曰之用魯侯曰此增異矣其道奈何寡人終願聞之亢倉子曰我體合於心心合於氣氣合於神神合於無其有介然之有唯然之音雖遠在八荒之外近在眉睫之内來干我者我必知之乃不知是我七孔四支之所覺心腹六藏之所知其自知而已矣魯侯大悦他日以告仲尼仲尼笑而不答商太宰見孔子曰丘聖者歟孔子曰聖則丘何敢然則丘博學多識者}
   - {type: variant, offset: 4902, length: 1, content: 徼, ZTDZ: 商太宰曰三王聖}
   - {type: page-break, offset: 4902, content: '', id: KR5c0049_SJB_001-110537c, image: sjb/11/110537c.png}
@@ -1769,6 +1892,7 @@ markers:
   - {type: line-break, offset: 4949, content: '', id: KR5c0049_SBCK_001-5b05}
   - {type: punctuation, offset: 4959, content: (, id: KR5c0049_krp_001-bkkpn503}
   - {type: variant, offset: 4959, length: 27, content: 此衆寡相傾者也晏子儒墨爲家重形生者不辨有此言假記所稱耳, HFL: ''}
+  - {type: voice, offset: 4959, length: 27, name: note, id: n124}
   - {type: substitution, offset: 4970, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4973, content: /, id: KR5c0049_krp_001-bkkpn504}
   - {type: punctuation, offset: 4986, content: ), id: KR5c0049_krp_001-bkkpn505}
@@ -1788,6 +1912,7 @@ markers:
   - {type: line-break, offset: 5014, content: '', id: KR5c0049_SBCK_001-5b07}
   - {type: variant, offset: 5023, length: 9, content: 丗鍾賢丗冝言重形生, HFL: 世}
   - {type: punctuation, offset: 5024, content: (, id: KR5c0049_krp_001-bkkpn506}
+  - {type: voice, offset: 5024, length: 8, name: note, id: n125}
   - {type: punctuation, offset: 5028, content: /, id: KR5c0049_krp_001-bkkpn507}
   - {type: punctuation, offset: 5032, content: ), id: KR5c0049_krp_001-bkkpn508}
   - {type: page-break, offset: 5032, content: '', id: KR5c0049_HFL_000-008a, image: hfl/0348/0348-018.png}
@@ -1805,6 +1930,7 @@ markers:
   - {type: variant, offset: 5062, length: 53, content: 胥失者也此二者雖行事小異而並不免於溺喪也而丗與一不與一唯聖人知所與知所去以生死爲窹者與之溺喪忘歸者去之或謂, ZTDZ: 問}
   - {type: punctuation, offset: 5066, content: (, id: KR5c0049_krp_001-bkkpn509}
   - {type: variant, offset: 5066, length: 8, content: 此二者雖行事小異, HFL: ''}
+  - {type: voice, offset: 5066, length: 16, name: note, id: n126}
   - {type: punctuation, offset: 5071, content: /, id: KR5c0049_krp_001-bkkpn510}
   - {type: variant, offset: 5075, length: 9, content: 並不免於溺喪也而丗, HFL: 世}
   - {type: punctuation, offset: 5076, content: ), id: KR5c0049_krp_001-bkkpn511}
@@ -1817,6 +1943,7 @@ markers:
   - {type: punctuation, offset: 5082, content: ), id: KR5c0049_krp_001-bkkpn514}
   - {type: punctuation, offset: 5098, content: (, id: KR5c0049_krp_001-bkkpn515}
   - {type: variant, offset: 5098, length: 15, content: 以生死爲窹者與之溺喪忘歸者去之, HFL: ''}
+  - {type: voice, offset: 5098, length: 15, name: note, id: n127}
   - {type: substitution, offset: 5101, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:non-cjk', offset: 5103, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc54}
   - {type: punctuation, offset: 5105, content: /, id: KR5c0049_krp_001-bkkpn516}
@@ -1833,6 +1960,7 @@ markers:
   - {type: substitution, offset: 5128, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 5131, content: (, id: KR5c0049_krp_001-bkkpn518}
   - {type: variant, offset: 5131, length: 44, content: 凡貴名之所以生必謂去彼而取此是我而非物今有無兩忘萬異冥一故謂之虚虚旣虚矣貴賤之名將何所生, HFL: ''}
+  - {type: voice, offset: 5131, length: 44, name: note, id: n128}
   - {type: punctuation, offset: 5140, content: /, id: KR5c0049_krp_001-bkkpn519}
   - {type: punctuation, offset: 5149, content: ), id: KR5c0049_krp_001-bkkpn520}
   - {type: 'kr:newline', offset: 5149, content: '
@@ -1850,6 +1978,7 @@ markers:
   - {type: variant, offset: 5180, length: 7, content: 其名也事有實著, ZTDZ: 口不敢言利害始得老商一眄而已五年之後心更念是}
   - {type: variant, offset: 5182, length: 11, content: 也事有實著非假名而後得, HFL: ''}
   - {type: punctuation, offset: 5183, content: (, id: KR5c0049_krp_001-bkkpn524}
+  - {type: voice, offset: 5183, length: 11, name: note, id: n129}
   - {type: variant, offset: 5188, length: 2, content: 假名, ZTDZ: 曰更言利害老商始一解顔而笑七年之後從心之所念更無是非從口之所言更無利害夫子始一引吾並席而坐九年之後橫心之所念橫口之所言亦不知我之是非利害歟亦不知彼之是非利害歟外内進矣}
   - {type: page-break, offset: 5188, content: '', id: KR5c0049_SJB_001-110538b, image: sjb/11/110538b.png}
   - {type: punctuation, offset: 5189, content: /, id: KR5c0049_krp_001-bkkpn525}
@@ -1877,6 +2006,7 @@ markers:
   - {type: variant, offset: 5215, length: 6, content: 矣夫虚靜之理, ZTDZ: 亦}
   - {type: punctuation, offset: 5216, content: (, id: KR5c0049_krp_001-bkkpn527}
   - {type: variant, offset: 5216, length: 59, content: 夫虚靜之理非心慮之表形骸之外求而得之即我之性内安諸已則自然眞全矣故物以全者皆由虚靜故得其所安所以敗者皆由動求故失其所處, HFL: ''}
+  - {type: voice, offset: 5216, length: 59, name: note, id: n130}
   - {type: substitution, offset: 5217, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 5222, content: /, id: KR5c0049_krp_001-bkkpn528}
   - {type: variant, offset: 5222, length: 0, content: '', ZTDZ: 有}
@@ -1909,6 +2039,7 @@ markers:
   - {type: variant, offset: 5286, length: 49, content: 弗能復也當爲之於未有冶之於未亂乃至虧喪凋殘方欲鼓舞仁義以求反性命之極者未之得也䃣音毁粥熊曰運轉亡巳, ZTDZ: 亦如含}
   - {type: punctuation, offset: 5290, content: (, id: KR5c0049_krp_001-bkkpn533}
   - {type: variant, offset: 5290, length: 38, content: 當爲之於未有冶之於未亂乃至虧喪凋殘方欲鼓舞仁義以求反性命之極者未之得也䃣音毁, HFL: ''}
+  - {type: voice, offset: 5290, length: 38, name: note, id: n131}
   - {type: substitution, offset: 5291, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 5308, content: /, id: KR5c0049_krp_001-bkkpn534}
   - {type: substitution, offset: 5325, original: 䃣, replacement: 毀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-2702}}
@@ -1928,6 +2059,7 @@ markers:
   - {type: variant, offset: 5337, length: 25, content: 密移疇覺之哉此則莊子舟壑之義孔子曰日夜无丘以是徂夫, ZTDZ: 含}
   - {type: punctuation, offset: 5343, content: (, id: KR5c0049_krp_001-bkkpn539}
   - {type: variant, offset: 5343, length: 86, content: 此則莊子舟壑之義孔子曰日夜无丘以是徂夫萬物與化爲體體隨化而遷化不蹔停物豈守故故向之形生非今形生俯仰之閒巳渉萬變氣散朽非一旦頓至而昧者操必化之器託不停之運自謂變化可逃不亦悲乎, HFL: ''}
+  - {type: voice, offset: 5343, length: 86, name: note, id: n132}
   - {type: punctuation, offset: 5354, content: /, id: KR5c0049_krp_001-bkkpn540}
   - {type: substitution, offset: 5356, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: 'kr:non-cjk', offset: 5357, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc55}
@@ -1955,6 +2087,7 @@ markers:
   - {type: punctuation, offset: 5429, content: ), id: KR5c0049_krp_001-bkkpn547}
   - {type: punctuation, offset: 5445, content: (, id: KR5c0049_krp_001-bkkpn548}
   - {type: variant, offset: 5445, length: 11, content: 所謂川竭谷虚丘夷淵實也, HFL: ''}
+  - {type: voice, offset: 5445, length: 11, name: note, id: n133}
   - {type: substitution, offset: 5450, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 5451, content: /, id: KR5c0049_krp_001-bkkpn549}
   - {type: punctuation, offset: 5456, content: ), id: KR5c0049_krp_001-bkkpn550}
@@ -1965,12 +2098,14 @@ markers:
   - {type: variant, offset: 5461, length: 1, content: 丗, HFL: 世}
   - {type: punctuation, offset: 5464, content: (, id: KR5c0049_krp_001-bkkpn551}
   - {type: variant, offset: 5464, length: 6, content: 此丗亦冝言生, HFL: ''}
+  - {type: voice, offset: 5464, length: 6, name: note, id: n134}
   - {type: punctuation, offset: 5467, content: /, id: KR5c0049_krp_001-bkkpn552}
   - {type: punctuation, offset: 5470, content: ), id: KR5c0049_krp_001-bkkpn553}
   - {type: variant, offset: 5474, length: 1, content: 閒, HFL: 間}
   - {type: substitution, offset: 5474, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 5482, content: (, id: KR5c0049_krp_001-bkkpn554}
   - {type: variant, offset: 5482, length: 20, content: 成者方自謂成而巳虧矣生者方自謂生濟巳死矣, HFL: ''}
+  - {type: voice, offset: 5482, length: 20, name: note, id: n135}
   - {type: punctuation, offset: 5485, content: /, id: KR5c0049_krp_001-bkkpn555}
   - {type: punctuation, offset: 5488, content: ), id: KR5c0049_krp_001-bkkpn556}
   - {type: 'kr:newline', offset: 5488, content: '
@@ -1987,10 +2122,12 @@ markers:
   - {type: line-break, offset: 5521, content: '', id: KR5c0049_SBCK_001-6a06}
   - {type: punctuation, offset: 5522, content: (, id: KR5c0049_krp_001-bkkpn560}
   - {type: variant, offset: 5522, length: 14, content: 皆在冥中而濳化固非耳目所瞻察, HFL: ''}
+  - {type: voice, offset: 5522, length: 14, name: note, id: n136}
   - {type: punctuation, offset: 5529, content: /, id: KR5c0049_krp_001-bkkpn561}
   - {type: punctuation, offset: 5536, content: ), id: KR5c0049_krp_001-bkkpn562}
   - {type: variant, offset: 5540, length: 3, content: 丗音生, HFL: 世}
   - {type: punctuation, offset: 5541, content: (, id: KR5c0049_krp_001-bkkpn563}
+  - {type: voice, offset: 5541, length: 2, name: note, id: n137}
   - {type: punctuation, offset: 5542, content: /, id: KR5c0049_krp_001-bkkpn564}
   - {type: punctuation, offset: 5543, content: ), id: KR5c0049_krp_001-bkkpn565}
   - {type: 'kr:newline', offset: 5555, content: '
@@ -2000,6 +2137,7 @@ markers:
   - {type: variant, offset: 5558, length: 1, content: 丗, HFL: 世}
   - {type: punctuation, offset: 5571, content: (, id: KR5c0049_krp_001-bkkpn566}
   - {type: variant, offset: 5571, length: 23, content: 形色髪膚有之麤者新故相換猶不可識汎妙於此者乎閒, HFL: 間}
+  - {type: voice, offset: 5571, length: 22, name: note, id: n138}
   - {type: substitution, offset: 5573, original: 髪, replacement: 髮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20730}}
   - {type: substitution, offset: 5577, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17356}}
   - {type: punctuation, offset: 5581, content: /, id: KR5c0049_krp_001-bkkpn567}
@@ -2024,6 +2162,7 @@ markers:
   - {type: line-break, offset: 5616, content: '', id: KR5c0049_SBCK_001-6a09}
   - {type: punctuation, offset: 5628, content: (, id: KR5c0049_krp_001-bkkpn572}
   - {type: variant, offset: 5628, length: 33, content: 彼之所憂者惑矣而復以不惑憂彼之所惑不憂彼之所憂喻積惑彌深何能相喻也, HFL: ''}
+  - {type: voice, offset: 5628, length: 33, name: note, id: n139}
   - {type: punctuation, offset: 5644, content: /, id: KR5c0049_krp_001-bkkpn573}
   - {type: punctuation, offset: 5660, content: ), id: KR5c0049_krp_001-bkkpn574}
   - {type: 'kr:newline', offset: 5660, content: '
@@ -2040,6 +2179,7 @@ markers:
   - {type: line-break, offset: 5685, content: '', id: KR5c0049_SBCK_001-6a11}
   - {type: punctuation, offset: 5687, content: (, id: KR5c0049_krp_001-bkkpn577}
   - {type: variant, offset: 5687, length: 41, content: 夫天之蒼蒼非人黙之質則所謂天者豈阻逺而无所極邪自地而上則皆天矣故俯仰喘息末始之天也, HFL: ''}
+  - {type: voice, offset: 5687, length: 41, name: note, id: n140}
   - {type: substitution, offset: 5694, original: 黙, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20742}}
   - {type: substitution, offset: 5706, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 5708, content: /, id: KR5c0049_krp_001-bkkpn578}
@@ -2054,6 +2194,7 @@ markers:
   - {type: line-break, offset: 5760, content: '', id: KR5c0049_SBCK_001-6a13}
   - {type: punctuation, offset: 5760, content: (, id: KR5c0049_krp_001-bkkpn580}
   - {type: variant, offset: 5760, length: 27, content: 氣亦何所不勝雖天地之大猶自安於太虛之域況乃氣氣相舉者也, HFL: ''}
+  - {type: voice, offset: 5760, length: 27, name: note, id: n141}
   - {type: punctuation, offset: 5774, content: /, id: KR5c0049_krp_001-bkkpn581}
   - {type: punctuation, offset: 5787, content: ), id: KR5c0049_krp_001-bkkpn582}
   - {type: 'kr:newline', offset: 5801, content: '
@@ -2077,6 +2218,7 @@ markers:
   - {type: punctuation, offset: 5841, content: (, id: KR5c0049_krp_001-bkkpn583}
   - {type: variant, offset: 5841, length: 10, content: 舎冝作釋此書釋字作舎, HFL: ''}
   - {type: substitution, offset: 5841, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
+  - {type: voice, offset: 5841, length: 10, name: note, id: n142}
   - {type: punctuation, offset: 5846, content: /, id: KR5c0049_krp_001-bkkpn584}
   - {type: substitution, offset: 5850, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
   - {type: punctuation, offset: 5851, content: ), id: KR5c0049_krp_001-bkkpn585}
@@ -2088,6 +2230,7 @@ markers:
   - {type: line-break, offset: 5856, content: '', id: KR5c0049_SBCK_001-6b02}
   - {type: punctuation, offset: 5859, content: (, id: KR5c0049_krp_001-bkkpn586}
   - {type: variant, offset: 5859, length: 40, content: 此二人一以必破爲憂一以必全爲喜此未知所以爲憂喜也而互相慰喻使目解釋固未免於大惑也, HFL: ''}
+  - {type: voice, offset: 5859, length: 40, name: note, id: n143}
   - {type: substitution, offset: 5866, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 5872, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 5879, content: /, id: KR5c0049_krp_001-bkkpn587}
@@ -2115,6 +2258,7 @@ markers:
   - {type: line-break, offset: 5956, content: '', id: KR5c0049_SBCK_001-6b05}
   - {type: punctuation, offset: 5960, content: (, id: KR5c0049_krp_001-bkkpn589}
   - {type: variant, offset: 5960, length: 36, content: 夫混然未判則天地一氣萬物一形分而爲天地散而爲萬物此盖離合之殊異形氣之虚實, HFL: ''}
+  - {type: voice, offset: 5960, length: 36, name: note, id: n144}
   - {type: substitution, offset: 5976, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 5978, content: /, id: KR5c0049_krp_001-bkkpn590}
   - {type: substitution, offset: 5981, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -2141,6 +2285,7 @@ markers:
   - {type: substitution, offset: 6060, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 6064, content: (, id: KR5c0049_krp_001-bkkpn592}
   - {type: variant, offset: 6064, length: 29, content: 此知有始之必終有形之必敗而不識休戚與隂陽降器質與天地顯没也, HFL: ''}
+  - {type: voice, offset: 6064, length: 29, name: note, id: n145}
   - {type: punctuation, offset: 6079, content: /, id: KR5c0049_krp_001-bkkpn593}
   - {type: 'kr:non-cjk', offset: 6084, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc62}
   - {type: substitution, offset: 6091, original: 没, replacement: 沒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19824}}
@@ -2158,6 +2303,7 @@ markers:
   - {type: line-break, offset: 6120, content: '', id: KR5c0049_SBCK_001-6b10}
   - {type: punctuation, offset: 6132, content: (, id: KR5c0049_krp_001-bkkpn595}
   - {type: variant, offset: 6132, length: 37, content: 彼一謂不壞者也此一謂壞者也其不壞則與人偕全其壞也則與人偕亡何爲欣戚於其閒哉, HFL: ''}
+  - {type: voice, offset: 6132, length: 37, name: note, id: n146}
   - {type: 'kr:non-cjk', offset: 6145, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc64}
   - {type: punctuation, offset: 6148, content: /, id: KR5c0049_krp_001-bkkpn596}
   - {type: 'kr:non-cjk', offset: 6153, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc65}
@@ -2177,6 +2323,7 @@ markers:
   - {type: line-break, offset: 6193, content: '', id: KR5c0049_SBCK_001-6b12}
   - {type: punctuation, offset: 6195, content: (, id: KR5c0049_krp_001-bkkpn601}
   - {type: variant, offset: 6195, length: 55, content: 生之不知死猶死之不知生故當其成也莫知其毀及其毀也亦何知其成此去來之見驗成敗之明徴而我皆即之情无彼此何處容其心乎, HFL: ''}
+  - {type: voice, offset: 6195, length: 55, name: note, id: n147}
   - {type: punctuation, offset: 6223, content: /, id: KR5c0049_krp_001-bkkpn602}
   - {type: substitution, offset: 6241, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 6250, content: ), id: KR5c0049_krp_001-bkkpn603}
@@ -2187,6 +2334,7 @@ markers:
   - {type: substitution, offset: 6253, original: 烝, replacement: 蒸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19480}}
   - {type: punctuation, offset: 6261, content: (, id: KR5c0049_krp_001-bkkpn604}
   - {type: variant, offset: 6261, length: 18, content: 舜欲明羣有皆同於无故舉道以爲發問之端, HFL: ''}
+  - {type: voice, offset: 6261, length: 18, name: note, id: n148}
   - {type: substitution, offset: 6269, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 6270, content: /, id: KR5c0049_krp_001-bkkpn605}
   - {type: substitution, offset: 6274, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -2197,6 +2345,7 @@ markers:
   - {type: line-break, offset: 6286, content: '', id: KR5c0049_SBCK_001-6b14}
   - {type: punctuation, offset: 6292, content: (, id: KR5c0049_krp_001-bkkpn607}
   - {type: variant, offset: 6292, length: 26, content: 郭象曰夫身者非汝所能有也塊然而自有耳有非所有而況无哉, HFL: ''}
+  - {type: voice, offset: 6292, length: 26, name: note, id: n149}
   - {type: punctuation, offset: 6305, content: /, id: KR5c0049_krp_001-bkkpn608}
   - {type: substitution, offset: 6316, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 6318, content: ), id: KR5c0049_krp_001-bkkpn609}
@@ -2210,10 +2359,12 @@ markers:
   - {type: line-break, offset: 6326, content: '', id: KR5c0049_SBCK_001-7a01}
   - {type: punctuation, offset: 6329, content: (, id: KR5c0049_krp_001-bkkpn610}
   - {type: variant, offset: 6329, length: 8, content: 據有此身故重發問, HFL: ''}
+  - {type: voice, offset: 6329, length: 8, name: note, id: n150}
   - {type: punctuation, offset: 6333, content: /, id: KR5c0049_krp_001-bkkpn611}
   - {type: punctuation, offset: 6337, content: ), id: KR5c0049_krp_001-bkkpn612}
   - {type: variant, offset: 6344, length: 8, content: 也是一氣之偏積者, HFL: ''}
   - {type: punctuation, offset: 6345, content: (, id: KR5c0049_krp_001-bkkpn613}
+  - {type: voice, offset: 6345, length: 8, name: note, id: n151}
   - {type: punctuation, offset: 6349, content: /, id: KR5c0049_krp_001-bkkpn614}
   - {type: punctuation, offset: 6353, content: ), id: KR5c0049_krp_001-bkkpn615}
   - {type: 'kr:newline', offset: 6360, content: '
@@ -2222,10 +2373,12 @@ markers:
   - {type: line-break, offset: 6360, content: '', id: KR5c0049_SBCK_001-7a02}
   - {type: punctuation, offset: 6364, content: (, id: KR5c0049_krp_001-bkkpn616}
   - {type: variant, offset: 6364, length: 6, content: 積和故成生耳, HFL: ''}
+  - {type: voice, offset: 6364, length: 6, name: note, id: n152}
   - {type: punctuation, offset: 6367, content: /, id: KR5c0049_krp_001-bkkpn617}
   - {type: punctuation, offset: 6370, content: ), id: KR5c0049_krp_001-bkkpn618}
   - {type: punctuation, offset: 6382, content: (, id: KR5c0049_krp_001-bkkpn619}
   - {type: variant, offset: 6382, length: 55, content: 積順故有存亡耳郭象曰身是汝有則美惡死生當制之由汝今氣聚而生汝不能禁也氣散而死汝不能止也明其委結而自成非汝之有也, HFL: ''}
+  - {type: voice, offset: 6382, length: 55, name: note, id: n153}
   - {type: punctuation, offset: 6390, content: /, id: KR5c0049_krp_001-bkkpn620}
   - {type: 'kr:non-cjk', offset: 6392, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc66}
   - {type: punctuation, offset: 6397, content: ), id: KR5c0049_krp_001-bkkpn621}
@@ -2242,6 +2395,7 @@ markers:
   - {type: line-break, offset: 6446, content: '', id: KR5c0049_SBCK_001-7a04}
   - {type: variant, offset: 6447, length: 22, content: 蛻也氣自委結而蟬蛻耳是汝有則男女炙少亦當由汝, HFL: 蜕}
   - {type: punctuation, offset: 6449, content: (, id: KR5c0049_krp_001-bkkpn625}
+  - {type: voice, offset: 6449, length: 21, name: note, id: n154}
   - {type: 'kr:non-cjk', offset: 6457, content: ⬤, id: KR5c0049_krp_001-bkkkrnonc67}
   - {type: punctuation, offset: 6459, content: /, id: KR5c0049_krp_001-bkkpn626}
   - {type: punctuation, offset: 6470, content: ), id: KR5c0049_krp_001-bkkpn627}
@@ -2252,12 +2406,14 @@ markers:
   - {type: line-break, offset: 6484, content: '', id: KR5c0049_SBCK_001-7a05}
   - {type: punctuation, offset: 6486, content: (, id: KR5c0049_krp_001-bkkpn628}
   - {type: variant, offset: 6486, length: 12, content: 皆在自爾中來非知而爲之也, HFL: ''}
+  - {type: voice, offset: 6486, length: 12, name: note, id: n155}
   - {type: punctuation, offset: 6492, content: /, id: KR5c0049_krp_001-bkkpn629}
   - {type: substitution, offset: 6495, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 6498, content: ), id: KR5c0049_krp_001-bkkpn630}
   - {type: variant, offset: 6500, length: 1, content: 強, HFL: 强}
   - {type: punctuation, offset: 6511, content: (, id: KR5c0049_krp_001-bkkpn631}
   - {type: variant, offset: 6511, length: 84, content: 天地即復姿結中之最大者也今行處食息皆彊陽氣之所運動豈識其所以然彊陽猶剛實也非剛實理之至反之虗和之極則无形无生不死不終則性命何所委順子孫何所委蛻行處何所止泊飲食何所因假也, HFL: ''}
+  - {type: voice, offset: 6511, length: 84, name: note, id: n156}
   - {type: punctuation, offset: 6518, content: /, id: KR5c0049_krp_001-bkkpn632}
   - {type: punctuation, offset: 6525, content: ), id: KR5c0049_krp_001-bkkpn633}
   - {type: 'kr:newline', offset: 6525, content: '
@@ -2325,6 +2481,7 @@ markers:
   - {type: substitution, offset: 6725, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 6744, content: (, id: KR5c0049_krp_001-bkkpn640}
   - {type: variant, offset: 6744, length: 10, content: 謂春秋冬夏凡土出有也, HFL: ''}
+  - {type: voice, offset: 6744, length: 10, name: note, id: n157}
   - {type: punctuation, offset: 6747, content: /, id: KR5c0049_krp_001-bkkpn641}
   - {type: punctuation, offset: 6750, content: ), id: KR5c0049_krp_001-bkkpn642}
   - {type: 'kr:newline', offset: 6750, content: '
@@ -2362,6 +2519,7 @@ markers:
   - {type: line-break, offset: 6805, content: '', id: KR5c0049_SBCK_001-7b01}
   - {type: punctuation, offset: 6815, content: (, id: KR5c0049_krp_001-bkkpn646}
   - {type: variant, offset: 6815, length: 30, content: 天尚不能自生豈能生物人尚不能自有豈能有物此乃明其自生自有者也, HFL: ''}
+  - {type: voice, offset: 6815, length: 30, name: note, id: n158}
   - {type: punctuation, offset: 6830, content: /, id: KR5c0049_krp_001-bkkpn647}
   - {type: punctuation, offset: 6845, content: ), id: KR5c0049_krp_001-bkkpn648}
   - {type: variant, offset: 6847, length: 1, content: 盗, HFL: 盜}
@@ -2373,6 +2531,7 @@ markers:
   - {type: variant, offset: 6850, length: 1, content: 亡, HFL: 無}
   - {type: punctuation, offset: 6852, content: (, id: KR5c0049_krp_001-bkkpn649}
   - {type: variant, offset: 6852, length: 14, content: 天亡其旌我公其心何往而有恐哉, HFL: ''}
+  - {type: voice, offset: 6852, length: 14, name: note, id: n159}
   - {type: punctuation, offset: 6859, content: /, id: KR5c0049_krp_001-bkkpn650}
   - {type: punctuation, offset: 6866, content: ), id: KR5c0049_krp_001-bkkpn651}
   - {type: variant, offset: 6868, length: 1, content: 王, HFL: 玉}
@@ -2384,6 +2543,7 @@ markers:
   - {type: line-break, offset: 6882, content: '', id: KR5c0049_SBCK_001-7b03}
   - {type: punctuation, offset: 6884, content: (, id: KR5c0049_krp_001-bkkpn652}
   - {type: variant, offset: 6884, length: 18, content: 天尚不能與豈人所能聚此亦明其自能自聚, HFL: ''}
+  - {type: voice, offset: 6884, length: 18, name: note, id: n160}
   - {type: punctuation, offset: 6893, content: /, id: KR5c0049_krp_001-bkkpn653}
   - {type: variant, offset: 6896, length: 46, content: 明其自能自聚若盗之而獲罪孰怨哉人有其財我犯其秘所以致盗向氏大或以爲國氏之重罔巳也遇東郭先生問, ZTDZ: ''}
   - {type: punctuation, offset: 6902, content: ), id: KR5c0049_krp_001-bkkpn654}
@@ -2391,6 +2551,7 @@ markers:
   - {type: substitution, offset: 6903, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 6911, content: (, id: KR5c0049_krp_001-bkkpn655}
   - {type: variant, offset: 6911, length: 12, content: 人有其財我犯其秘所以致盗, HFL: ''}
+  - {type: voice, offset: 6911, length: 12, name: note, id: n161}
   - {type: punctuation, offset: 6917, content: /, id: KR5c0049_krp_001-bkkpn656}
   - {type: substitution, offset: 6918, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20732}}
   - {type: substitution, offset: 6922, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
@@ -2418,6 +2579,7 @@ markers:
   - {type: substitution, offset: 6971, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 6973, content: (, id: KR5c0049_krp_001-bkkpn658}
   - {type: variant, offset: 6973, length: 32, content: 若其有盗邪則我身即天地之一物不得私而有之若其无盗邪則外内不得異也, HFL: ''}
+  - {type: voice, offset: 6973, length: 32, name: note, id: n162}
   - {type: punctuation, offset: 6975, content: /, id: KR5c0049_krp_001-bkkpn659}
   - {type: substitution, offset: 6976, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 6977, content: ), id: KR5c0049_krp_001-bkkpn660}
@@ -2437,6 +2599,7 @@ markers:
   - {type: line-break, offset: 7019, content: '', id: KR5c0049_SBCK_001-7b07}
   - {type: punctuation, offset: 7022, content: (, id: KR5c0049_krp_001-bkkpn664}
   - {type: variant, offset: 7022, length: 157, content: 夫天地萬物之都稱萬物天地之别名雖復各私其身理不相離仞而有之心之惑也因此而言夫天地委形非我有也飭愛色皃矜伐智能巳爲惑矣至於甚者構仞外物以爲巳有乃標名氏以自異倚親族以自固整章服以耀物籍名位以動衆封殖財貨樹立權黨終身欣玩莫由自悟故老子日吾所以有大患爲吾有身莊子日百骸六藏吾誰與爲親頷斯旨也則方寸與太虚齊空形骸與萬物俱有也, HFL: ''}
+  - {type: voice, offset: 7022, length: 157, name: note, id: n163}
   - {type: punctuation, offset: 7049, content: /, id: KR5c0049_krp_001-bkkpn665}
   - {type: substitution, offset: 7071, original: 皃, replacement: 貌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19950}}
   - {type: punctuation, offset: 7076, content: ), id: KR5c0049_krp_001-bkkpn666}
@@ -2469,6 +2632,7 @@ markers:
   - {type: substitution, offset: 7191, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 7198, content: (, id: KR5c0049_krp_001-bkkpn673}
   - {type: variant, offset: 7198, length: 29, content: 公者對私之名无私則公名滅矣今以犯天者爲公犯人者爲私於理未至, HFL: ''}
+  - {type: voice, offset: 7198, length: 29, name: note, id: n164}
   - {type: substitution, offset: 7204, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 7213, content: /, id: KR5c0049_krp_001-bkkpn674}
   - {type: substitution, offset: 7216, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -2482,6 +2646,7 @@ markers:
   - {type: substitution, offset: 7232, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 7234, content: (, id: KR5c0049_krp_001-bkkpn676}
   - {type: variant, offset: 7234, length: 10, content: 直所犯之異耳未爲非盗, HFL: ''}
+  - {type: voice, offset: 7234, length: 10, name: note, id: n165}
   - {type: punctuation, offset: 7239, content: /, id: KR5c0049_krp_001-bkkpn677}
   - {type: substitution, offset: 7241, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 7243, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
@@ -2490,6 +2655,7 @@ markers:
   - {type: variant, offset: 7249, length: 25, content: 盗也一身不得不有財物不得不聚復欲遣之非能即而无心者, HFL: 盜}
   - {type: substitution, offset: 7249, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 7251, content: (, id: KR5c0049_krp_001-bkkpn679}
+  - {type: voice, offset: 7251, length: 24, name: note, id: n166}
   - {type: punctuation, offset: 7263, content: /, id: KR5c0049_krp_001-bkkpn680}
   - {type: substitution, offset: 7271, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 7275, content: ), id: KR5c0049_krp_001-bkkpn681}
@@ -2499,6 +2665,7 @@ markers:
   - {type: line-break, offset: 7276, content: '', id: KR5c0049_SBCK_001-7b12}
   - {type: punctuation, offset: 7283, content: (, id: KR5c0049_krp_001-bkkpn682}
   - {type: variant, offset: 7283, length: 39, content: 生即天地之一理身即天地之一物今所愛吝復是愛吝天地之閒生身耳事无公私理无愛吝者也, HFL: ''}
+  - {type: voice, offset: 7283, length: 39, name: note, id: n167}
   - {type: punctuation, offset: 7303, content: /, id: KR5c0049_krp_001-bkkpn683}
   - {type: substitution, offset: 7308, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: substitution, offset: 7313, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -2527,6 +2694,7 @@ markers:
   - {type: page-break, offset: 7335, content: '', id: KR5c0049_SJB_001-110542c, image: sjb/11/110542c.png}
   - {type: substitution, offset: 7335, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 7337, content: (, id: KR5c0049_krp_001-bkkpn685}
+  - {type: voice, offset: 7337, length: 36, name: note, id: n168}
   - {type: variant, offset: 7338, length: 0, content: '', ZTDZ: 下可運於一握將亦奚事哉楚王曰善魯公扈趙齊嬰二人有疾同請扁鵲求治扁鵲治之既同愈謂公扈齊嬰曰汝曩之所疾自外而干府藏者固藥石之所已今有偕生之疾與體偕長今爲汝攻之何如二人曰願先聞其驗扁鵲謂公扈曰汝志彊而氣弱故足於謀而寡於斷齊嬰志弱而氣彊故少於慮而傷於專若换汝之心則均於善矣扁鵲遂飲二人毒酒迷死三日剖胸探心易而置之投以神藥既悟如初二人辭歸於是公扈反齊嬰之室而有其妻子妻子弗識齊嬰亦反公扈之室有其妻子妻子亦弗識二室因相與訟求辨於扁鵲扁鵲辨其所由訟乃已瓠巴鼓琴而鳥舞魚躍鄭師文聞之棄家從師襄游柱指鈞絃三年不成章師襄曰子可以歸矣師文舍其琴嘆曰文非絃之不能鈞非章之不能成文所存者不在絃所志者不在聲内不得於心外不應於氣故不敢發手而動絃且小假之以觀其後無幾何復見師襄師襄曰子之琴何如師文曰得之矣請嘗試之於是當春而叩商絃以召南吕凉風忽至草木成實及秋而叩角絃以激夾鍾温風徐回草木發榮當夏而叩羽絃以召黄鍾霜雪交下川池暴沍及冬而叩徴絃以激蕤賔陽光熾烈堅冰立散將終命宫而總四絃則景風翔慶雲浮甘露降澧泉涌師襄乃撫心高蹈曰微矣子之彈也雖師曠之清角鄒衍之吹律亡以加之彼將挾琴執管而從子之後耳薛譚學謳於秦青未窮青之技自謂盡之遂辭歸秦青弗止餞於郊衢撫節悲歌聲振林木響遏行雲薛譚乃謝求反終身不敢言歸秦青顧謂其友曰昔韓娥東之齊匱糧過雍門鬻歌假食既去而餘音繞梁欐三日不絶左右以其人弗去過逆旅逆旅人辱之韓娥因曼聲哀哭一里老幼悲愁垂涕相對三日不食遽而追之娥還復爲曼聲長歌一里老幼喜躍抃舞弗能自禁忘向之悲也乃厚賂發之故雍門之人至今善歌哭效娥之遺聲伯牙善鼓琴鍾子期善聽伯牙鼓琴志在登高山鍾子期曰善哉峨峨兮若泰山志在流水鍾子期曰善哉洋洋兮若江河伯牙所念鍾子期必得之伯牙游於泰山之陰卒逢暴雨止於巖下心悲乃援琴而鼓之初爲霖雨之操更造崩山之音曲每奏鍾子期輒窮其趣伯牙乃舍琴而歎曰善哉善哉子之聽夫志想象猶吾心也吾於何逃聲哉周穆王西巡狩越崑崙不至弇山反還未及中國道有獻工人名偃師穆王薦之問曰若有何能偃師曰臣唯命所試然臣已有所造願王先觀之穆王曰日以俱來吾與若俱觀之越日偃師謁見王王薦之曰若與偕來者何人對曰臣之所造能倡者穆王驚視之趣步俯仰信人也巧夫鎮其頤則歌合律捧其乎則舞應節千變萬化唯意所適王以爲實人也與盛姬内御並觀之技將終倡者瞬其目而招王之左右侍妾王大怒立欲誅偃師偃師大懾立剖散倡者以示王皆傳會革木膠漆白黑丹青之所爲王諦料之内則肝膽心肺脾腎腸胃外則筋骨支節皮毛齒髮皆假物也而無不畢具者合會復如初見王試廢其心則口不能言廢其肝則目不能視廢其腎則足不能步穆王始悦而歎曰人之巧乃可與造化者同功乎詔貳車載之以歸夫班輸之雲梯墨翟之飛鳶自謂能之極也弟子東門賈禽滑釐聞偃飾之巧以告二子二子終身不敢語藝而時執規矩甘蠅古之善射者彀弓而獸伏鳥下弟子名飛衛學射於甘蠅而巧過其師紀昌者又學射於飛衛飛衛曰爾先學不瞬而後可言射矣紀昌歸偃卧其妻之機下以自承牽挺二年之後雖錐末倒眥而不瞬也以告飛衛飛衛曰未也必學視而後可視小如大視微如著而後告我昌以氂懸虱於牖南面而望之旬日之間浸大也三年之後如車輪焉以覩餘物皆丘山也乃以燕角之弧朔蓬之簳射之貫虱之心而懸不絶以告飛衛飛衛高蹈拊膺曰汝得之矣紀昌既盡衛之術計天下之敵己者一人而已乃謀殺飛衛相遇於野二人交射中路矢鋒相觸而墜於}
   - {type: page-break, offset: 7338, content: '', id: KR5c0049_SJB_001-110543a, image: sjb/11/110543a.png}
   - {type: page-break, offset: 7338, content: '', id: KR5c0049_SJB_001-110543b, image: sjb/11/110543b.png}
@@ -2556,4 +2724,4 @@ markers:
 
       ', id: KR5c0049_krp_001-bkkkrnewl209}
   back: []
-hash: sha256:5f8344adffac32fafb8546cac169a928492596a7002d8dba1b0a5c57f804448b
+hash: sha256:22b670e1bca58f806feac8d8bec8fe2fdfd1537e2e0f867779417970fbb82741
