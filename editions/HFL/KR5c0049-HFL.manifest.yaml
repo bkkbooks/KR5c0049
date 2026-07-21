@@ -29,7 +29,7 @@ assets:
   - {seq: 3, filename: KR5c0049_003-HFL.yaml, hash: 'sha256:475ae72e0553497019dfe91233ba8b2cbe42e86adf3fa97095ed218b94097ea8'}
   - {seq: 4, filename: KR5c0049_004-HFL.yaml, hash: 'sha256:830e25da4d4e266fddfb3f857eaad725c0afae9018b7fe0dbd483881405cf253'}
   - {seq: 5, filename: KR5c0049_005-HFL.yaml, hash: 'sha256:652503d6ec8d4f5f3f6c6d92d46f96cccf72db48a2db803f759e5e265808dbc4'}
-  - {seq: 6, filename: KR5c0049_006-HFL.yaml, hash: 'sha256:83179b2f8a31e13d4464539fd818b166994cfa7d22be949ac828658a3414a49e'}
+  - {seq: 6, filename: KR5c0049_006-HFL.yaml, hash: 'sha256:1b1f761dda3fce8c3cf65ebfa69522ab3266ae42a71730a6932524c8542514d4'}
   - {seq: 7, filename: KR5c0049_007-HFL.yaml, hash: 'sha256:2a746560d65246adef7744dd2e9241cc536233908e21938cdccfc02e130b4beb'}
   - {seq: 8, filename: KR5c0049_008-HFL.yaml, hash: 'sha256:0f852431d88f9d90343a466d3930614294279f15468c689498daa99f1260e6d6'}
   markers:
@@ -39,7 +39,7 @@ assets:
   - {seq: 3, role: markers, filename: assets/KR5c0049_003-HFL.markers.yaml, hash: 'sha256:841d61f016b42afaafd912d6d8a3781909027b59fc597ee210ebddb83f027a9b'}
   - {seq: 4, role: markers, filename: assets/KR5c0049_004-HFL.markers.yaml, hash: 'sha256:6e1db19f8b8af0cc3a69dc5dc023177c0b161de0e64ed305f1c85d22525af2ee'}
   - {seq: 5, role: markers, filename: assets/KR5c0049_005-HFL.markers.yaml, hash: 'sha256:92fbe9069efa466534c790435ebe175bf641dd0758c143367edc2608efa84765'}
-  - {seq: 6, role: markers, filename: assets/KR5c0049_006-HFL.markers.yaml, hash: 'sha256:aeb5d4ffc654e41fd7c5ffaaee41a1ebdb942d9c06fb86874fa5902e0295bea0'}
+  - {seq: 6, role: markers, filename: assets/KR5c0049_006-HFL.markers.yaml, hash: 'sha256:d1491b3e3660551347d83df9834ea475172a7851fe03badb8ffa1f774939cdc6'}
   - {seq: 7, role: markers, filename: assets/KR5c0049_007-HFL.markers.yaml, hash: 'sha256:ce94128c5608a007a808950b3d8d93cfb6512e45ef517753c7a02331181eaf69'}
   - {seq: 8, role: markers, filename: assets/KR5c0049_008-HFL.markers.yaml, hash: 'sha256:e0f93c79a6a22df7f2643c57b6dbb6cf983559078cc279fb0ac53ef5119016d9'}
 table_of_contents:
@@ -108,8 +108,8 @@ table_of_contents:
     marker_id: KR5c0049_HFL_002-002a
     span:
     - body
-    - 0
-    - 0
+    - 2831
+    - 2831
   label: juan 006
   type: section
   level: 1
@@ -133,4 +133,4 @@ table_of_contents:
   label: juan 008
   type: section
   level: 1
-hash: sha256:4d8adf20e935f096b5b90897412abc201d41e77568415a2426f422166a36d9b6
+hash: sha256:c4d580fb63fbb5b1833c2be938ae828cb3b336db8ae3f01e2fd4b41f257216a8

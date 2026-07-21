@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR5c0049/HFL/v1/markers/6
 seq: 6
 markers:
-  front:
+  body:
   - {type: line-break, offset: 0, content: '', id: KR5c0049_HFL_006-front01}
   - {type: line-break, offset: 1, content: '', id: KR5c0049_HFL_006-front02}
   - {type: 'kr:newline', offset: 14, content: '
@@ -915,18 +915,17 @@ markers:
       ', id: KR5c0049_HFL_006-bkkkrnewl179}
   - {type: line-break, offset: 2814, content: '', id: KR5c0049_HFL_002-009b15}
   - {type: line-break, offset: 2830, content: '', id: KR5c0049_HFL_002-009b16}
-  body:
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: 'kr:newline', offset: 2831, content: '
 
       ', id: KR5c0049_HFL_006-bkkkrnewl1}
-  - {type: page-break, offset: 0, content: '', id: KR5c0049_HFL_002-010a, image: hfl/0348/0348-138.png}
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: page-break, offset: 2831, content: '', id: KR5c0049_HFL_002-010a, image: hfl/0348/0348-138.png}
+  - {type: 'kr:newline', offset: 2831, content: '
 
       ', id: KR5c0049_HFL_006-bkkkrnewl2}
-  - {type: line-break, offset: 0, content: '', id: KR5c0049_HFL_002-010a01}
-  - {type: indent, offset: 0, content: 　, id: KR5c0049_HFL_006-bkkind1}
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: line-break, offset: 2831, content: '', id: KR5c0049_HFL_002-010a01}
+  - {type: indent, offset: 2831, content: 　, id: KR5c0049_HFL_006-bkkind1}
+  - {type: 'kr:newline', offset: 2831, content: '
 
       ', id: KR5c0049_HFL_006-bkkkrnewl3}
   back: []
-hash: sha256:aeb5d4ffc654e41fd7c5ffaaee41a1ebdb942d9c06fb86874fa5902e0295bea0
+hash: sha256:d1491b3e3660551347d83df9834ea475172a7851fe03badb8ffa1f774939cdc6
